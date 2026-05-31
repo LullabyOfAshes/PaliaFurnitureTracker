@@ -16,6 +16,12 @@ A cozy desktop application built with Python and Tkinter to track furniture coll
 
 ---
 
+## 📸 Preview
+
+![App Screenshot](assets/screenshot.png)
+
+---
+
 ## 🖥️ Download
 
 Download the latest version from **Releases**.
