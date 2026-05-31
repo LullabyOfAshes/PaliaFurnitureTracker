@@ -1,0 +1,4046 @@
+{
+  "Alchemist": {
+    "Alchemist Base Room": {
+      "image": "images/alchemist_base_room.png"
+    },
+      "Alchemist Chimney": {
+      "image": "images/alchemist_chimney.png"
+    },
+    "Alchemist Conservatory": {
+      "image": "images/alchemist_conservatory.png"
+    },
+    "Alchemist Fireplace": {
+      "image": "images/alchemist_fireplace.png"
+    },
+    "Alchemist Roof Connector": {
+      "image": "images/alchemist_roof_connector.png"
+    },
+    "Alchemist Roof Trim 1": {
+      "image": "images/alchemist_roof_trim_1.png"
+    },
+    "Alchemist Roof Trim 2": {
+      "image": "images/alchemist_roof_trim_2.png"
+    },
+    "Alchemist Roof Trim 3": {
+      "image": "images/alchemist_roof_trim_3.png"
+    },
+    "Alchemist Rooftop Window": {
+      "image": "images/alchemist_rooftop_window.png"
+    },
+    "Alchemist Window 1": {
+      "image": "images/alchemist_window_1.png"
+    },
+    "Alchemist Window 2": {
+      "image": "images/alchemist_window_2.png"
+    },
+    "Alchemist Window 3": {
+      "image": "images/alchemist_window_3.png"
+    },
+    "Alchemist Window 4": {
+      "image": "images/alchemist_window_4.png"
+    },
+    "Wooden Stairs": {
+      "image": "images/wooden_stairs.png"
+    }
+  },
+  "Ancient": {
+    "Ancient Awning": {
+      "image": "images/ancient_awning.png"
+    },
+    "Ancient Column": {
+      "image": "images/ancient_column.png"
+    },
+    "Ancient Dormer": {
+      "image": "images/ancient_dormer.png"
+    },
+    "Ancient House": {
+      "image": "images/ancient_house.png"
+    },
+    "Ancient Pillar": {
+      "image": "images/ancient_pillar.png"
+    },
+    "Ancient Roof Connector": {
+      "image": "images/ancient_roof_connector.png"
+    },
+    "Ancient Staircase": {
+      "image": "images/ancient_staircase.png"
+    },
+    "Ancient Steps": {
+      "image": "images/ancient_steps.png"
+    },
+    "Ancient Window": {
+      "image": "images/ancient_window.png"
+    },
+    "Ancient Wing Decoration": {
+      "image": "images/ancient_wing_decoration.png"
+    }
+  },
+  "Aristocrat's": {
+    "Aristocrat's Mirror": {
+      "image": "images/aristocrat_s_mirror.png"
+    },
+    "Aristocrat's Armchair": {
+      "image": "images/aristocrat_s_armchair.png"
+    },
+    "Aristocrat's Armoire": {
+      "image": "images/aristocrat_s_armoire.png"
+    },
+    "Aristocrat's Bed": {
+      "image": "images/aristocrat_s_bed.png"
+    },
+    "Aristocrat's Big Artwork": {
+      "image": "images/aristocrat_s_big_artwork.png"
+    },
+    "Aristocrat's Birdcage": {
+      "image": "images/aristocrat_s_birdcage.png"
+    },
+    "Aristocrat's Bookshelf": {
+      "image": "images/aristocrat_s_bookshelf.png"
+    },
+    "Aristocrat's Bureau": {
+      "image": "images/aristocrat_s_bureau.png"
+    },
+    "Aristocrat's Cabinet": {
+      "image": "images/aristocrat_s_cabinet.png"
+    },
+    "Aristocrat's Candelabra": {
+      "image": "images/aristocrat_s_candelabra.png"
+    },
+    "Aristocrat's Chandelier": {
+      "image": "images/aristocrat_s_chandelier.png"
+    },
+    "Aristocrat's Clock": {
+      "image": "images/aristocrat_s_clock.png"
+    },
+    "Aristocrat's Coffee Table": {
+      "image": "images/aristocrat_s_coffee_table.png"
+    },
+    "Aristocrat's Dining Chair": {
+      "image": "images/aristocrat_s_dining_chair.png"
+    },
+    "Aristocrat's Drink Cart": {
+      "image": "images/aristocrat_s_drink_cart.png"
+    },
+    "Aristocrat's End Table": {
+      "image": "images/aristocrat_s_end_table.png"
+    },
+    "Aristocrat's Floor Lamp": {
+      "image": "images/aristocrat_s_floor_lamp.png"
+    },
+    "Aristocrat's Floor Mirror": {
+      "image": "images/aristocrat_s_floor_mirror.png"
+    },
+    "Aristocrat's Flower Vase": {
+      "image": "images/aristocrat_s_flower_vase.png"
+    },
+    "Aristocrat's Mini Artwork": {
+      "image": "images/aristocrat_s_mini_artwork.png"
+    },
+    "Aristocrat's Rug": {
+      "image": "images/aristocrat_s_rug.png"
+    },
+    "Aristocrat's Sconce": {
+      "image": "images/aristocrat_s_sconce.png"
+    },
+    "Aristocrat's Screen": {
+      "image": "images/aristocrat_s_screen.png"
+    },
+    "Aristocrat's Secretary": {
+      "image": "images/aristocrat_s_secretary.png"
+    },
+    "Aristocrat's Shelf": {
+      "image": "images/aristocrat_s_shelf.png"
+    },
+    "Aristocrat's Sofa": {
+      "image": "images/aristocrat_s_sofa.png"
+    },
+    "Aristocrat's Table": {
+      "image": "images/aristocrat_s_table.png"
+    },
+    "Aristocrat's Vanity": {
+      "image": "images/aristocrat_s_vanity.png"
+    },
+    "Aristocrat's Vanity Stool": {
+      "image": "images/aristocrat_s_vanity_stool.png"
+    },
+    "Aristocrat's Vase": {
+      "image": "images/aristocrat_s_vase.png"
+    }
+  },
+  "Bellflower": {
+    "Bellflower Alarm Clock": {
+      "image": "images/bellflower_alarm_clock.png"
+    },
+    "Bellflower Armchair": {
+      "image": "images/bellflower_armchair.png"
+    },
+    "Bellflower Banner": {
+      "image": "images/bellflower_banner.png"
+    },
+    "Bellflower Bathtub": {
+      "image": "images/bellflower_bathtub.png"
+    },
+    "Bellflower Bed": {
+      "image": "images/bellflower_bed.png"
+    },
+    "Bellflower Bookshelf": {
+      "image": "images/bellflower_bookshelf.png"
+    },
+    "Bellflower Chandelier": {
+      "image": "images/bellflower_chandelier.png"
+    },
+    "Bellflower Coffee Table": {
+      "image": "images/bellflower_coffee_table.png"
+    },
+    "Bellflower Couch": {
+      "image": "images/bellflower_couch.png"
+    },
+    "Bellflower Curtains": {
+      "image": "images/bellflower_curtains.png"
+    },
+    "Bellflower Dining Chair": {
+      "image": "images/bellflower_dining_chair.png"
+    },
+    "Bellflower Dining Table": {
+      "image": "images/bellflower_dining_table.png"
+    },
+    "Bellflower Dresser": {
+      "image": "images/bellflower_dresser.png"
+    },
+    "Bellflower Flower Planter": {
+      "image": "images/bellflower_flower_planter.png"
+    },
+    "Bellflower Grand Fountain": {
+      "image": "images/bellflower_grand_fountain.png"
+    },
+    "Bellflower Large Drapes": {
+      "image": "images/bellflower_large_drapes.png"
+    },
+    "Bellflower Mirror": {
+      "image": "images/bellflower_mirror.png"
+    },
+    "Bellflower Nightstand": {
+      "image": "images/bellflower_nightstand.png"
+    },
+    "Bellflower Pantry": {
+      "image": "images/bellflower_pantry.png"
+    },
+    "Bellflower Picture Frame": {
+      "image": "images/bellflower_picture_frame.png"
+    },
+    "Bellflower Reed Planter": {
+      "image": "images/bellflower_reed_planter.png"
+    },
+    "Bellflower Regal Fountain": {
+      "image": "images/bellflower_regal_fountain.png"
+    },
+    "Bellflower Rug": {
+      "image": "images/bellflower_rug.png"
+    },
+    "Bellflower Runner": {
+      "image": "images/bellflower_runner.png"
+    },
+    "Bellflower Shrub Planter": {
+      "image": "images/bellflower_shrub_planter.png"
+    },
+    "Bellflower Sink": {
+      "image": "images/bellflower_sink.png"
+    },
+    "Bellflower Small Drapes": {
+      "image": "images/bellflower_small_drapes.png"
+    },
+    "Bellflower Small Rug": {
+      "image": "images/bellflower_small_rug.png"
+    },
+    "Bellflower Standing Lamp": {
+      "image": "images/bellflower_standing_lamp.png"
+    },
+    "Bellflower Table Lamp": {
+      "image": "images/bellflower_table_lamp.png"
+    },
+    "Bellflower Toilet": {
+      "image": "images/bellflower_toilet.png"
+    },
+    "Bellflower Wall Cabinet": {
+      "image": "images/bellflower_wall_cabinet.png"
+    },
+    "Bellflower Wall Shelf": {
+      "image": "images/bellflower_wall_shelf.png"
+    },
+    "Bellflower Wardrobe": {
+      "image": "images/bellflower_wardrobe.png"
+    }
+  },
+  "Bonsai Pods": {
+    "Ardbert the Bonsai Pod": {
+      "image": "images/ardbert_the_bonsai_pod.png"
+    },
+    "Ashe the Bonsai Pod": {
+      "image": "images/ashe_the_bonsai_pod.png"
+    },
+    "Autumn the Bonsai Pod": {
+      "image": "images/autumn_the_bonsai_pod.png"
+    },
+    "Myrtle the Bonsai Pod": {
+      "image": "images/myrtle_the_bonsai_pod.png"
+    }
+  },
+  "Builder's": {
+    "Builder's Bridge 1": {
+      "image": "images/builder_s_bridge_1.png"
+    },
+    "Builder's Bridge 2": {
+      "image": "images/builder_s_bridge_2.png"
+    },
+    "Builder's Bridge 3": {
+      "image": "images/builder_s_bridge_3.png"
+    },
+    "Builder's Bridge Corner": {
+      "image": "images/builder_s_bridge_corner.png"
+    },
+    "Builder's Bridge Curve": {
+      "image": "images/builder_s_bridge_curve.png"
+    },
+    "Builder's Bridge Post": {
+      "image": "images/builder_s_bridge_post.png"
+    },
+    "Builder's Bridge Stairs": {
+      "image": "images/builder_s_bridge_stairs.png"
+    },
+    "Builder's Coal Pile": {
+      "image": "images/builder_s_coal_pile.png"
+    },
+    "Builder's Hand Saw": {
+      "image": "images/builder_s_hand_saw.png"
+    },
+    "Builder's Jackhammer": {
+      "image": "images/builder_s_jackhammer.png"
+    },
+    "Builder's Lantern": {
+      "image": "images/builder_s_lantern.png"
+    },
+    "Builder's Mallet": {
+      "image": "images/builder_s_mallet.png"
+    },
+    "Builder's Mine Tracks 1": {
+      "image": "images/builder_s_mine_tracks_1.png"
+    },
+    "Builder's Mine Tracks 2": {
+      "image": "images/builder_s_mine_tracks_2.png"
+    },
+    "Builder's Minecart": {
+      "image": "images/builder_s_minecart.png"
+    },
+    "Builder's Pickaxe": {
+      "image": "images/builder_s_pickaxe.png"
+    },
+    "Builder's Rail Stop": {
+      "image": "images/builder_s_rail_stop.png"
+    },
+    "Builder's Rock Pick": {
+      "image": "images/builder_s_rock_pick.png"
+    },
+    "Builder's Stamp Mill": {
+      "image": "images/builder_s_stamp_mill.png"
+    },
+    "Builder's Wood Pile": {
+      "image": "images/builder_s_wood_pile.png"
+    },
+    "Builder's Wooden Arch": {
+      "image": "images/builder_s_wooden_arch.png"
+    }
+  },
+  "Builders": {
+    "Builders Copper Floor": {
+      "image": "images/builders_copper_floor.png"
+    },
+    "Builders Copper Pillar": {
+      "image": "images/builders_copper_pillar.png"
+    },
+    "Builders Copper Ramp": {
+      "image": "images/builders_copper_ramp.png"
+    },
+    "Builders Copper Wall": {
+      "image": "images/builders_copper_wall.png"
+    },
+    "Builders Gold Floor": {
+      "image": "images/builders_gold_floor.png"
+    },
+    "Builders Gold Pillar": {
+      "image": "images/builders_gold_pillar.png"
+    },
+    "Builders Gold Ramp": {
+      "image": "images/builders_gold_ramp.png"
+    },
+    "Builders Gold Wall": {
+      "image": "images/builders_gold_wall.png"
+    },
+    "Builders Iron Floor": {
+      "image": "images/builders_iron_floor.png"
+    },
+    "Builders Iron Pillar": {
+      "image": "images/builders_iron_pillar.png"
+    },
+    "Builders Iron Ramp": {
+      "image": "images/builders_iron_ramp.png"
+    },
+    "Builders Iron Wall": {
+      "image": "images/builders_iron_wall.png"
+    },
+    "Builders Large Copper Crate": {
+      "image": "images/builders_large_copper_crate.png"
+    },
+    "Builders Large Gold Crate": {
+      "image": "images/builders_large_gold_crate.png"
+    },
+    "Builders Large Iron Crate": {
+      "image": "images/builders_large_iron_crate.png"
+    },
+    "Builders Large Stone Crate": {
+      "image": "images/builders_large_stone_crate.png"
+    },
+    "Builders Large Wood Crate": {
+      "image": "images/builders_large_wood_crate.png"
+    },
+    "Builders Small Copper Crate": {
+      "image": "images/builders_small_copper_crate.png"
+    },
+    "Builders Small Gold Crate": {
+      "image": "images/builders_small_gold_crate.png"
+    },
+    "Builders Small Iron Crate": {
+      "image": "images/builders_small_iron_crate.png"
+    },
+    "Builders Small Stone Crate": {
+      "image": "images/builders_small_stone_crate.png"
+    },
+    "Builders Small Wood Crate": {
+      "image": "images/builders_small_wood_crate.png"
+    },
+    "Builders Stone Floor": {
+      "image": "images/builders_stone_floor.png"
+    },
+    "Builders Stone Pillar": {
+      "image": "images/builders_stone_pillar.png"
+    },
+    "Builders Stone Ramp": {
+      "image": "images/builders_stone_ramp.png"
+    },
+    "Builders Stone Wall": {
+      "image": "images/builders_stone_wall.png"
+    },
+    "Builders Wood Floor": {
+      "image": "images/builders_wood_floor.png"
+    },
+    "Builders Wood Pillar": {
+      "image": "images/builders_wood_pillar.png"
+    },
+    "Builders Wood Ramp": {
+      "image": "images/builders_wood_ramp.png"
+    },
+    "Builders Wood Wall": {
+      "image": "images/builders_wood_wall.png"
+    }
+  },
+  "Camping": {
+    "Camping Backpack": {
+      "image": "images/camping_backpack.png"
+    },
+    "Camping Bench": {
+      "image": "images/camping_bench.png"
+    },
+    "Camping Bookshelf": {
+      "image": "images/camping_bookshelf.png"
+    },
+    "Camping Bowls": {
+      "image": "images/camping_bowls.png"
+    },
+    "Camping Chair": {
+      "image": "images/camping_chair.png"
+    },
+    "Camping Chapaa Sculpture": {
+      "image": "images/camping_chapaa_sculpture.png"
+    },
+    "Camping Compass": {
+      "image": "images/camping_compass.png"
+    },
+    "Camping Cup": {
+      "image": "images/camping_cup.png"
+    },
+    "Camping Fence": {
+      "image": "images/camping_fence.png"
+    },
+    "Camping Fence Column": {
+      "image": "images/camping_fence_column.png"
+    },
+    "Camping Fence Gate": {
+      "image": "images/camping_fence_gate.png"
+    },
+    "Camping Lamp": {
+      "image": "images/camping_lamp.png"
+    },
+    "Camping Medium Frame": {
+      "image": "images/camping_medium_frame.png"
+    },
+    "Camping Medium Planter": {
+      "image": "images/camping_medium_planter.png"
+    },
+    "Camping Small Frame": {
+      "image": "images/camping_small_frame.png"
+    },
+    "Camping Small Planter": {
+      "image": "images/camping_small_planter.png"
+    },
+    "Camping Stool": {
+      "image": "images/camping_stool.png"
+    },
+    "Camping Table": {
+      "image": "images/camping_table.png"
+    },
+    "Camping Wall Light": {
+      "image": "images/camping_wall_light.png"
+    },
+    "Camping Wall Shelf": {
+      "image": "images/camping_wall_shelf.png"
+    }
+  },
+  "Capital Chic": {
+    "Capital Chic Armchair": {
+      "image": "images/capital_chic_armchair.png"
+    },
+    "Capital Chic Bathtub": {
+      "image": "images/capital_chic_bathtub.png"
+    },
+    "Capital Chic Bed": {
+      "image": "images/capital_chic_bed.png"
+    },
+    "Capital Chic Cabinet": {
+      "image": "images/capital_chic_cabinet.png"
+    },
+    "Capital Chic Chandelier": {
+      "image": "images/capital_chic_chandelier.png"
+    },
+    "Capital Chic Coffee Table": {
+      "image": "images/capital_chic_coffee_table.png"
+    },
+    "Capital Chic Couch": {
+      "image": "images/capital_chic_couch.png"
+    },
+    "Capital Chic Dining Chair": {
+      "image": "images/capital_chic_dining_chair.png"
+    },
+    "Capital Chic Dining Table": {
+      "image": "images/capital_chic_dining_table.png"
+    },
+    "Capital Chic Doormat": {
+      "image": "images/capital_chic_doormat.png"
+    },
+    "Capital Chic Fern Planter": {
+      "image": "images/capital_chic_fern_planter.png"
+    },
+    "Capital Chic Field Frame": {
+      "image": "images/capital_chic_field_frame.png"
+    },
+    "Capital Chic Kitchenette": {
+      "image": "images/capital_chic_kitchenette.png"
+    },
+    "Capital Chic Large Shelf": {
+      "image": "images/capital_chic_large_shelf.png"
+    },
+    "Capital Chic Mirror": {
+      "image": "images/capital_chic_mirror.png"
+    },
+    "Capital Chic Nightstand": {
+      "image": "images/capital_chic_nightstand.png"
+    },
+    "Capital Chic Pantry": {
+      "image": "images/capital_chic_pantry.png"
+    },
+    "Capital Chic Planter": {
+      "image": "images/capital_chic_planter.png"
+    },
+    "Capital Chic Round Mirror": {
+      "image": "images/capital_chic_round_mirror.png"
+    },
+    "Capital Chic Rug": {
+      "image": "images/capital_chic_rug.png"
+    },
+    "Capital Chic Shelves": {
+      "image": "images/capital_chic_shelves.png"
+    },
+    "Capital Chic Sink": {
+      "image": "images/capital_chic_sink.png"
+    },
+    "Capital Chic Small Shelf": {
+      "image": "images/capital_chic_small_shelf.png"
+    },
+    "Capital Chic Stylish Rug": {
+      "image": "images/capital_chic_stylish_rug.png"
+    },
+    "Capital Chic Table Lamp": {
+      "image": "images/capital_chic_table_lamp.png"
+    },
+    "Capital Chic Wall Cabinet": {
+      "image": "images/capital_chic_wall_cabinet.png"
+    },
+    "Capital Chic Wall Decor": {
+      "image": "images/capital_chic_wall_decor.png"
+    },
+    "Capital Chic Wall Shelf": {
+      "image": "images/capital_chic_wall_shelf.png"
+    },
+    "Capital Chic Wardrobe": {
+      "image": "images/capital_chic_wardrobe.png"
+    }
+  },
+  "Chapaa Hut": {
+    "Chapaa Hut Bahari Board": {
+      "image": "images/chapaa_hut_bahari_board.png"
+    },
+    "Chapaa Hut Chapaa Mug": {
+      "image": "images/chapaa_hut_chapaa_mug.png"
+    },
+    "Chapaa Hut Embra Plush": {
+      "image": "images/chapaa_hut_embra_plush.png"
+    },
+    "Chapaa Hut Enkii Pillow": {
+      "image": "images/chapaa_hut_enkii_pillow.png"
+    },
+    "Chapaa Hut Enkii Plush": {
+      "image": "images/chapaa_hut_enkii_plush.png"
+    },
+    "Chapaa Hut Fun Guy Plush": {
+      "image": "images/chapaa_hut_fun_guy_plush.png"
+    },
+    "Chapaa Hut Inki Pillow": {
+      "image": "images/chapaa_hut_inki_pillow.png"
+    },
+    "Chapaa Hut Inki Plush": {
+      "image": "images/chapaa_hut_inki_plush.png"
+    },
+    "Chapaa Hut Maji Plush": {
+      "image": "images/chapaa_hut_maji_plush.png"
+    },
+    "Chapaa Hut Mini Maji Plush": {
+      "image": "images/chapaa_hut_mini_maji_plush.png"
+    },
+    "Chapaa Hut Naanshi Pillow": {
+      "image": "images/chapaa_hut_naanshi_pillow.png"
+    },
+    "Chapaa Hut Naanshi Plush": {
+      "image": "images/chapaa_hut_naanshi_plush.png"
+    },
+    "Chapaa Hut Neena Pillow": {
+      "image": "images/chapaa_hut_neena_pillow.png"
+    },
+    "Chapaa Hut Neena Plush": {
+      "image": "images/chapaa_hut_neena_plush.png"
+    },
+    "Chapaa Hut Nergaal Pillow": {
+      "image": "images/chapaa_hut_nergaal_pillow.png"
+    },
+    "Chapaa Hut Nergaal Plush": {
+      "image": "images/chapaa_hut_nergaal_plush.png"
+    },
+    "Chapaa Hut Pillow": {
+      "image": "images/chapaa_hut_pillow.png"
+    }
+  },
+  "Cozy Camp": {
+    "Cozy Camp Blanket": {
+      "image": "images/cozy_camp_blanket.png"
+    },
+    "Cozy Camp Canopy": {
+      "image": "images/cozy_camp_canopy.png"
+    },
+    "Cozy Camp Folding Chair": {
+      "image": "images/cozy_camp_folding_chair.png"
+    },
+    "Cozy Camp Frilly Pillow": {
+      "image": "images/cozy_camp_frilly_pillow.png"
+    },
+    "Cozy Camp Lounge Chair": {
+      "image": "images/cozy_camp_lounge_chair.png"
+    },
+    "Cozy Camp Made Bed": {
+      "image": "images/cozy_camp_made_bed.png"
+    },
+    "Cozy Camp Messy Bed": {
+      "image": "images/cozy_camp_messy_bed.png"
+    },
+    "Cozy Camp Mini Cyprus": {
+      "image": "images/cozy_camp_mini_cyprus.png"
+    },
+    "Cozy Camp Round Pillow": {
+      "image": "images/cozy_camp_round_pillow.png"
+    },
+    "Cozy Camp Rug": {
+      "image": "images/cozy_camp_rug.png"
+    },
+    "Cozy Camp Short Hedge": {
+      "image": "images/cozy_camp_short_hedge.png"
+    },
+    "Cozy Camp Space Heater": {
+      "image": "images/cozy_camp_space_heater.png"
+    },
+    "Cozy Camp Tall Hedge": {
+      "image": "images/cozy_camp_tall_hedge.png"
+    },
+    "Cozy Camp Tassel Pillow": {
+      "image": "images/cozy_camp_tassel_pillow.png"
+    }
+  },
+  "Curtain": {
+    "Arched Large Curtains": {
+      "image": "images/arched_large_curtains.png"
+    },
+    "Arched Small Curtains": {
+      "image": "images/arched_small_curtains.png"
+    },
+    "Little Leaf Large Valance": {
+      "image": "images/little_leaf_large_valance.png"
+    },
+    "Little Leaf Small Valance": {
+      "image": "images/little_leaf_small_valance.png"
+    },
+    "Silver Leaf Large Drapes": {
+      "image": "images/silver_leaf_large_drapes.png"
+    },
+    "Silver Leaf Small Drapes": {
+      "image": "images/silver_leaf_small_drapes.png"
+    },
+    "Velvet Luxe Large Curtain": {
+      "image": "images/velvet_luxe_large_curtain.png"
+    },
+    "Velvet Luxe Small Curtain": {
+      "image": "images/velvet_luxe_small_curtain.png"
+    }
+  },
+  "Dragontide": {
+    "Dragontide Abstract Rug": {
+      "image": "images/dragontide_abstract_rug.png"
+    },
+    "Dragontide Armchair": {
+      "image": "images/dragontide_armchair.png"
+    },
+    "Dragontide Bathtub": {
+      "image": "images/dragontide_bathtub.png"
+    },
+    "Dragontide Bed": {
+      "image": "images/dragontide_bed.png"
+    },
+    "Dragontide Bookshelf": {
+      "image": "images/dragontide_bookshelf.png"
+    },
+    "Dragontide Chandelier": {
+      "image": "images/dragontide_chandelier.png"
+    },
+    "Dragontide Coffee Table": {
+      "image": "images/dragontide_coffee_table.png"
+    },
+    "Dragontide Couch": {
+      "image": "images/dragontide_couch.png"
+    },
+    "Dragontide Dining Chair": {
+      "image": "images/dragontide_dining_chair.png"
+    },
+    "Dragontide Dining Table": {
+      "image": "images/dragontide_dining_table.png"
+    },
+    "Dragontide End Table": {
+      "image": "images/dragontide_end_table.png"
+    },
+    "Dragontide Fern Planter": {
+      "image": "images/dragontide_fern_planter.png"
+    },
+    "Dragontide Flower Planter": {
+      "image": "images/dragontide_flower_planter.png"
+    },
+    "Dragontide Folding Screen": {
+      "image": "images/dragontide_folding_screen.png"
+    },
+    "Dragontide Hanging Lamp": {
+      "image": "images/dragontide_hanging_lamp.png"
+    },
+    "Dragontide Hedge Planter": {
+      "image": "images/dragontide_hedge_planter.png"
+    },
+    "Dragontide Low End Table": {
+      "image": "images/dragontide_low_end_table.png"
+    },
+    "Dragontide Mirror": {
+      "image": "images/dragontide_mirror.png"
+    },
+    "Dragontide Nightstand": {
+      "image": "images/dragontide_nightstand.png"
+    },
+    "Dragontide Orchid Planter": {
+      "image": "images/dragontide_orchid_planter.png"
+    },
+    "Dragontide Pantry": {
+      "image": "images/dragontide_pantry.png"
+    },
+    "Dragontide Round Rug": {
+      "image": "images/dragontide_round_rug.png"
+    },
+    "Dragontide Round Shelf": {
+      "image": "images/dragontide_round_shelf.png"
+    },
+    "Dragontide Runner": {
+      "image": "images/dragontide_runner.png"
+    },
+    "Dragontide Sideboard": {
+      "image": "images/dragontide_sideboard.png"
+    },
+    "Dragontide Silken Chaise": {
+      "image": "images/dragontide_silken_chaise.png"
+    },
+    "Dragontide Standing Lamp": {
+      "image": "images/dragontide_standing_lamp.png"
+    },
+    "Dragontide Wall Clock": {
+      "image": "images/dragontide_wall_clock.png"
+    },
+    "Dragontide Wall Fan": {
+      "image": "images/dragontide_wall_fan.png"
+    },
+    "Dragontide Wall Lamp": {
+      "image": "images/dragontide_wall_lamp.png"
+    },
+    "Dragontide Wardrobe": {
+      "image": "images/dragontide_wardrobe.png"
+    }
+  },
+  "Elderwood": {
+    "Elderwood Armchair": {
+      "image": "images/elderwood_armchair.png"
+    },
+    "Elderwood Backpack": {
+      "image": "images/elderwood_backpack.png"
+    },
+    "Elderwood Chandelier": {
+      "image": "images/elderwood_chandelier.png"
+    },
+    "Elderwood Couch": {
+      "image": "images/elderwood_couch.png"
+    },
+    "Elderwood End Table": {
+      "image": "images/elderwood_end_table.png"
+    },
+    "Elderwood Floor Branch": {
+      "image": "images/elderwood_floor_branch.png"
+    },
+    "Elderwood Large Lamp": {
+      "image": "images/elderwood_large_lamp.png"
+    },
+    "Elderwood Mossy Rug": {
+      "image": "images/elderwood_mossy_rug.png"
+    },
+    "Elderwood Mush Light": {
+      "image": "images/elderwood_mush_light.png"
+    },
+    "Elderwood Mush Planter": {
+      "image": "images/elderwood_mush_planter.png"
+    },
+    "Elderwood Small Lamp": {
+      "image": "images/elderwood_small_lamp.png"
+    },
+    "Elderwood Small Planter": {
+      "image": "images/elderwood_small_planter.png"
+    },
+    "Elderwood Wall Branch": {
+      "image": "images/elderwood_wall_branch.png"
+    },
+    "Elderwood Wall Shelf": {
+      "image": "images/elderwood_wall_shelf.png"
+    },
+    "Elderwood Wardrobe": {
+      "image": "images/elderwood_wardrobe.png"
+    }
+  },
+  "Emberborn": {
+    "Emberborn Armchair": {
+      "image": "images/emberborn_armchair.png"
+    },
+    "Emberborn Bathtub": {
+      "image": "images/emberborn_bathtub.png"
+    },
+    "Emberborn Bed": {
+      "image": "images/emberborn_bed.png"
+    },
+    "Emberborn Bookshelf": {
+      "image": "images/emberborn_bookshelf.png"
+    },
+    "Emberborn Brazier": {
+      "image": "images/emberborn_brazier.png"
+    },
+    "Emberborn Coffee Table": {
+      "image": "images/emberborn_coffee_table.png"
+    },
+    "Emberborn Couch": {
+      "image": "images/emberborn_couch.png"
+    },
+    "Emberborn Dining Table": {
+      "image": "images/emberborn_dining_table.png"
+    },
+    "Emberborn Double Gate": {
+      "image": "images/emberborn_double_gate.png"
+    },
+    "Emberborn Dresser": {
+      "image": "images/emberborn_dresser.png"
+    },
+    "Emberborn Fence": {
+      "image": "images/emberborn_fence.png"
+    },
+    "Emberborn Flower Planter": {
+      "image": "images/emberborn_flower_planter.png"
+    },
+    "Emberborn Hanging Lamp": {
+      "image": "images/emberborn_hanging_lamp.png"
+    },
+    "Emberborn Hanging Planter": {
+      "image": "images/emberborn_hanging_planter.png"
+    },
+    "Emberborn Large Column": {
+      "image": "images/emberborn_large_column.png"
+    },
+    "Emberborn Large Rug": {
+      "image": "images/emberborn_large_rug.png"
+    },
+    "Emberborn Mirror": {
+      "image": "images/emberborn_mirror.png"
+    },
+    "Emberborn Nightstand": {
+      "image": "images/emberborn_nightstand.png"
+    },
+    "Emberborn Reed Planter": {
+      "image": "images/emberborn_reed_planter.png"
+    },
+    "Emberborn Side Table": {
+      "image": "images/emberborn_side_table.png"
+    },
+    "Emberborn Small Column": {
+      "image": "images/emberborn_small_column.png"
+    },
+    "Emberborn Small Rug": {
+      "image": "images/emberborn_small_rug.png"
+    },
+    "Emberborn Standing Lamp": {
+      "image": "images/emberborn_standing_lamp.png"
+    },
+    "Emberborn Stool": {
+      "image": "images/emberborn_stool.png"
+    },
+    "Emberborn Swing Gate": {
+      "image": "images/emberborn_swing_gate.png"
+    },
+    "Emberborn Table Lamp": {
+      "image": "images/emberborn_table_lamp.png"
+    },
+    "Emberborn Wall": {
+      "image": "images/emberborn_wall.png"
+    },
+    "Emberborn Wall Decor": {
+      "image": "images/emberborn_wall_decor.png"
+    },
+    "Emberborn Wall Shelf": {
+      "image": "images/emberborn_wall_shelf.png"
+    },
+    "Emberborn Wardrobe": {
+      "image": "images/emberborn_wardrobe.png"
+    }
+  },
+  "Estate": {
+    "Estate Base": {
+      "image": "images/estate_base.png"
+    },
+    "Estate Column": {
+      "image": "images/estate_column.png"
+    },
+    "Estate Fancy Trim": {
+      "image": "images/estate_fancy_trim.png"
+    },
+    "Estate Grand Staircase": {
+      "image": "images/estate_grand_staircase.png"
+    },
+    "Estate Large Window": {
+      "image": "images/estate_large_window.png"
+    },
+    "Estate Plain Trim": {
+      "image": "images/estate_plain_trim.png"
+    },
+    "Estate Railing": {
+      "image": "images/estate_railing.png"
+    },
+    "Estate Roof Connector": {
+      "image": "images/estate_roof_connector.png"
+    },
+    "Estate Rooftop": {
+      "image": "images/estate_rooftop.png"
+    },
+    "Estate Rooftop Dormer": {
+      "image": "images/estate_rooftop_dormer.png"
+    },
+    "Estate Stairs": {
+      "image": "images/estate_stairs.png"
+    },
+    "Estate Windmill": {
+      "image": "images/estate_windmill.png"
+    },
+    "Estate Window": {
+      "image": "images/estate_window.png"
+    }
+  },
+  "Fancypods": {
+    "Basil the Fancypod": {
+      "image": "images/basil_the_fancypod.png"
+    },
+    "Charlotte the Fancypod": {
+      "image": "images/charlotte_the_fancypod.png"
+    },
+    "Danvers the Fancypod": {
+      "image": "images/danvers_the_fancypod.png"
+    },
+    "Darcy the Fancypod": {
+      "image": "images/darcy_the_fancypod.png"
+    },
+    "Dorian the Fancypod": {
+      "image": "images/dorian_the_fancypod.png"
+    },
+    "Elizabeth the Fancypod": {
+      "image": "images/elizabeth_the_fancypod.png"
+    },
+    "George the Fancypod": {
+      "image": "images/george_the_fancypod.png"
+    },
+    "Lacey the Fancypod": {
+      "image": "images/lacey_the_fancypod.png"
+    },
+    "Rebecca the Fancypod": {
+      "image": "images/rebecca_the_fancypod.png"
+    },
+    "Victor the Fancypod": {
+      "image": "images/victor_the_fancypod.png"
+    }
+  },
+  "Flotsam": {
+    "Flotsam Bookshelf": {
+      "image": "images/flotsam_bookshelf.png"
+    },
+    "Flotsam Conch": {
+      "image": "images/flotsam_conch.png"
+    },
+    "Flotsam Driftwood Decor": {
+      "image": "images/flotsam_driftwood_decor.png"
+    },
+    "Flotsam Glass Buoy": {
+      "image": "images/flotsam_glass_buoy.png"
+    },
+    "Flotsam Hanging Mobile": {
+      "image": "images/flotsam_hanging_mobile.png"
+    },
+    "Flotsam Large Candle": {
+      "image": "images/flotsam_large_candle.png"
+    },
+    "Flotsam Porthole Frame": {
+      "image": "images/flotsam_porthole_frame.png"
+    },
+    "Flotsam Sand Art": {
+      "image": "images/flotsam_sand_art.png"
+    },
+    "Flotsam Scallop": {
+      "image": "images/flotsam_scallop.png"
+    },
+    "Flotsam Small Candle": {
+      "image": "images/flotsam_small_candle.png"
+    },
+    "Flotsam Towel Rack": {
+      "image": "images/flotsam_towel_rack.png"
+    }
+  },
+  "Garden Variety": {
+    "Garden Variety Ceramic Bucket": {
+      "image": "images/garden_variety_ceramic_bucket.png"
+    },
+    "Garden Variety Jug": {
+      "image": "images/garden_variety_jug.png"
+    },
+    "Garden Variety Pickaxe": {
+      "image": "images/garden_variety_pickaxe.png"
+    },
+    "Garden Variety Shovel": {
+      "image": "images/garden_variety_shovel.png"
+    },
+    "Garden Variety Sprout Planter": {
+      "image": "images/garden_variety_sprout_planter.png"
+    },
+    "Garden Variety Wooden Bucket": {
+      "image": "images/garden_variety_wooden_bucket.png"
+    }
+  },
+  "Gourmet": {
+    "Gourmet Butcher Block": {
+      "image": "images/gourmet_butcher_block.png"
+    },
+    "Gourmet Cup": {
+      "image": "images/gourmet_cup.png"
+    },
+    "Gourmet Cutting Board": {
+      "image": "images/gourmet_cutting_board.png"
+    },
+    "Gourmet Dessert Bowl": {
+      "image": "images/gourmet_dessert_bowl.png"
+    },
+    "Gourmet Dessert Bowl Bunch": {
+      "image": "images/gourmet_dessert_bowl_bunch.png"
+    },
+    "Gourmet Dessert Plate": {
+      "image": "images/gourmet_dessert_plate.png"
+    },
+    "Gourmet Dessert Plate Pile": {
+      "image": "images/gourmet_dessert_plate_pile.png"
+    },
+    "Gourmet Dinner Plate": {
+      "image": "images/gourmet_dinner_plate.png"
+    },
+    "Gourmet Dinner Plate Pile": {
+      "image": "images/gourmet_dinner_plate_pile.png"
+    },
+    "Gourmet Fork": {
+      "image": "images/gourmet_fork.png"
+    },
+    "Gourmet Knife": {
+      "image": "images/gourmet_knife.png"
+    },
+    "Gourmet Mug": {
+      "image": "images/gourmet_mug.png"
+    },
+    "Gourmet Pan Pile": {
+      "image": "images/gourmet_pan_pile.png"
+    },
+    "Gourmet Pot Pile": {
+      "image": "images/gourmet_pot_pile.png"
+    },
+    "Gourmet Soup Bowl": {
+      "image": "images/gourmet_soup_bowl.png"
+    },
+    "Gourmet Soup Bowl Bunch": {
+      "image": "images/gourmet_soup_bowl_bunch.png"
+    },
+    "Gourmet Spoon": {
+      "image": "images/gourmet_spoon.png"
+    }
+  },
+  "Greenhome": {
+    "Greenhome Basket": {
+      "image": "images/greenhome_basket.png"
+    },
+    "Greenhome Burlap Sack": {
+      "image": "images/greenhome_burlap_sack.png"
+    },
+    "Greenhome Clay Pot": {
+      "image": "images/greenhome_clay_pot.png"
+    },
+    "Greenhome Flower Box": {
+      "image": "images/greenhome_flower_box.png"
+    },
+    "Greenhome Metal Pot": {
+      "image": "images/greenhome_metal_pot.png"
+    },
+    "Greenhome Stone Urn": {
+      "image": "images/greenhome_stone_urn.png"
+    },
+    "Greenhome Terracotta Pot": {
+      "image": "images/greenhome_terracotta_pot.png"
+    },
+    "Greenhome Wall Pot": {
+      "image": "images/greenhome_wall_pot.png"
+    },
+    "Greenhome Wood Pot": {
+      "image": "images/greenhome_wood_pot.png"
+    }
+  },
+  "Grow All Out": {
+    "Grow All Out Couch": {
+      "image": "images/grow_all_out_couch.png"
+    },
+    "Grow All Out Dining Chair": {
+      "image": "images/grow_all_out_dining_chair.png"
+    },
+    "Grow All Out Dining Table": {
+      "image": "images/grow_all_out_dining_table.png"
+    },
+    "Grow All Out Gazebo": {
+      "image": "images/grow_all_out_gazebo.png"
+    },
+    "Grow All Out Standing Lamp": {
+      "image": "images/grow_all_out_standing_lamp.png"
+    },
+    "Grow All Out Stool": {
+      "image": "images/grow_all_out_stool.png"
+    }
+  },
+  "Guild Store": {
+    "Blueprint Board Wallpaper": {
+      "image": "images/blueprint_board_wallpaper.png"
+    },
+    "Bug Catcher's Insectarium": {
+      "image": "images/bug_catcher_s_insectarium.png"
+    },
+    "Bug Catcher's Lure": {
+      "image": "images/bug_catcher_s_lure.png"
+    },
+    "Bug Catcher's Plaque": {
+      "image": "images/bug_catcher_s_plaque.png"
+    },
+    "Butterfly Lights Wallpaper": {
+      "image": "images/butterfly_lights_wallpaper.png"
+    },
+    "Cook's Market Stand": {
+      "image": "images/cook_s_market_stand.png"
+    },
+    "Cook's Plaque": {
+      "image": "images/cook_s_plaque.png"
+    },
+    "Cook's Trays": {
+      "image": "images/cook_s_trays.png"
+    },
+    "Fisher's Aquarium": {
+      "image": "images/fisher_s_aquarium.png"
+    },
+    "Fisher's Plaque": {
+      "image": "images/fisher_s_plaque.png"
+    },
+    "Fisher's Treasure Chest": {
+      "image": "images/fisher_s_treasure_chest.png"
+    },
+    "Forager's Bonsai": {
+      "image": "images/forager_s_bonsai.png"
+    },
+    "Forager's Planter": {
+      "image": "images/forager_s_planter.png"
+    },
+    "Forager's Plaque": {
+      "image": "images/forager_s_plaque.png"
+    },
+    "Furnace Parts Wallpaper": {
+      "image": "images/furnace_parts_wallpaper.png"
+    },
+    "Furniture Maker's Drawing Board": {
+      "image": "images/furniture_maker_s_drawing_board.png"
+    },
+    "Furniture Maker's Plaque": {
+      "image": "images/furniture_maker_s_plaque.png"
+    },
+    "Furniture Maker's Tool Chest": {
+      "image": "images/furniture_maker_s_tool_chest.png"
+    },
+    "Gardener's Cornucopia": {
+      "image": "images/gardener_s_cornucopia.png"
+    },
+    "Gardener's Growhouse": {
+      "image": "images/gardener_s_growhouse.png"
+    },
+    "Gardener's Plaque": {
+      "image": "images/gardener_s_plaque.png"
+    },
+    "Hunter's Mannequin": {
+      "image": "images/hunter_s_mannequin.png"
+    },
+    "Hunter's Plaque": {
+      "image": "images/hunter_s_plaque.png"
+    },
+    "Hunter's Target": {
+      "image": "images/hunter_s_target.png"
+    },
+    "Kilima Koi Pond": {
+      "image": "images/kilima_koi_pond.png"
+    },
+    "Miner's Anvil": {
+      "image": "images/miner_s_anvil.png"
+    },
+    "Miner's Curio Case": {
+      "image": "images/miner_s_curio_case.png"
+    },
+    "Miner's Plaque": {
+      "image": "images/miner_s_plaque.png"
+    },
+    "Mushroom Woods Wallpaper": {
+      "image": "images/mushroom_woods_wallpaper.png"
+    },
+    "Ramen Bowl Wallpaper": {
+      "image": "images/ramen_bowl_wallpaper.png"
+    },
+    "Sernuk Run Wallpaper": {
+      "image": "images/sernuk_run_wallpaper.png"
+    },
+    "Tomato Vines Wallpaper": {
+      "image": "images/tomato_vines_wallpaper.png"
+    },
+    "Under the Sea Wallpaper": {
+      "image": "images/under_the_sea_wallpaper.png"
+    },
+    "Well": {
+      "image": "images/well.png"
+    }
+  },
+  "Homestead": {
+    "Homestead Alarm Clock": {
+      "image": "images/homestead_alarm_clock.png"
+    },
+    "Homestead Amphora": {
+      "image": "images/homestead_amphora.png"
+    },
+    "Homestead Armchair": {
+      "image": "images/homestead_armchair.png"
+    },
+    "Homestead Banner": {
+      "image": "images/homestead_banner.png"
+    },
+    "Homestead Barrel": {
+      "image": "images/homestead_barrel.png"
+    },
+    "Homestead Bookshelf": {
+      "image": "images/homestead_bookshelf.png"
+    },
+    "Homestead Candle Holder": {
+      "image": "images/homestead_candle_holder.png"
+    },
+    "Homestead Candles": {
+      "image": "images/homestead_candles.png"
+    },
+    "Homestead Carafe": {
+      "image": "images/homestead_carafe.png"
+    },
+    "Homestead Casserole Dish": {
+      "image": "images/homestead_casserole_dish.png"
+    },
+    "Homestead Ceiling Lamp": {
+      "image": "images/homestead_ceiling_lamp.png"
+    },
+    "Homestead Coffee Table": {
+      "image": "images/homestead_coffee_table.png"
+    },
+    "Homestead Cookware": {
+      "image": "images/homestead_cookware.png"
+    },
+    "Homestead Cozy Chair": {
+      "image": "images/homestead_cozy_chair.png"
+    },
+    "Homestead Desk Lamp": {
+      "image": "images/homestead_desk_lamp.png"
+    },
+    "Homestead Dining Chair": {
+      "image": "images/homestead_dining_chair.png"
+    },
+    "Homestead Dining Table": {
+      "image": "images/homestead_dining_table.png"
+    },
+    "Homestead Display Case": {
+      "image": "images/homestead_display_case.png"
+    },
+    "Homestead Dress Form": {
+      "image": "images/homestead_dress_form.png"
+    },
+    "Homestead End Table": {
+      "image": "images/homestead_end_table.png"
+    },
+    "Homestead Ficus Planter": {
+      "image": "images/homestead_ficus_planter.png"
+    },
+    "Homestead Floor Cabinet": {
+      "image": "images/homestead_floor_cabinet.png"
+    },
+    "Homestead Flower Planter": {
+      "image": "images/homestead_flower_planter.png"
+    },
+    "Homestead Harvest Wreath": {
+      "image": "images/homestead_harvest_wreath.png"
+    },
+    "Homestead Icebox": {
+      "image": "images/homestead_icebox.png"
+    },
+    "Homestead Large Bench": {
+      "image": "images/homestead_large_bench.png"
+    },
+    "Homestead Large Dresser": {
+      "image": "images/homestead_large_dresser.png"
+    },
+    "Homestead Large Frame": {
+      "image": "images/homestead_large_frame.png"
+    },
+    "Homestead Large Jug": {
+      "image": "images/homestead_large_jug.png"
+    },
+    "Homestead Large Lamp": {
+      "image": "images/homestead_large_lamp.png"
+    },
+    "Homestead Large Pot": {
+      "image": "images/homestead_large_pot.png"
+    },
+    "Homestead Large Rug": {
+      "image": "images/homestead_large_rug.png"
+    },
+    "Homestead Lute": {
+      "image": "images/homestead_lute.png"
+    },
+    "Homestead Medium Bed": {
+      "image": "images/homestead_medium_bed.png"
+    },
+    "Homestead Medium Frame": {
+      "image": "images/homestead_medium_frame.png"
+    },
+    "Homestead Medium Jug": {
+      "image": "images/homestead_medium_jug.png"
+    },
+    "Homestead Medium Lamp": {
+      "image": "images/homestead_medium_lamp.png"
+    },
+    "Homestead Medium Rug": {
+      "image": "images/homestead_medium_rug.png"
+    },
+    "Homestead Mirror": {
+      "image": "images/homestead_mirror.png"
+    },
+    "Homestead Nightstand": {
+      "image": "images/homestead_nightstand.png"
+    },
+    "Homestead Pantry": {
+      "image": "images/homestead_pantry.png"
+    },
+    "Homestead Pitcher": {
+      "image": "images/homestead_pitcher.png"
+    },
+    "Homestead Reed Planter": {
+      "image": "images/homestead_reed_planter.png"
+    },
+    "Homestead Runner": {
+      "image": "images/homestead_runner.png"
+    },
+    "Homestead Sideboard": {
+      "image": "images/homestead_sideboard.png"
+    },
+    "Homestead Small Bench": {
+      "image": "images/homestead_small_bench.png"
+    },
+    "Homestead Small Bottle": {
+      "image": "images/homestead_small_bottle.png"
+    },
+    "Homestead Small Dresser": {
+      "image": "images/homestead_small_dresser.png"
+    },
+    "Homestead Small Frame": {
+      "image": "images/homestead_small_frame.png"
+    },
+    "Homestead Small Jug": {
+      "image": "images/homestead_small_jug.png"
+    },
+    "Homestead Small Lamp": {
+      "image": "images/homestead_small_lamp.png"
+    },
+    "Homestead Small Pot": {
+      "image": "images/homestead_small_pot.png"
+    },
+    "Homestead Standing Lamp": {
+      "image": "images/homestead_standing_lamp.png"
+    },
+    "Homestead Stool": {
+      "image": "images/homestead_stool.png"
+    },
+    "Homestead Tall Bottle": {
+      "image": "images/homestead_tall_bottle.png"
+    },
+    "Homestead Tea Set": {
+      "image": "images/homestead_tea_set.png"
+    },
+    "Homestead Thick Bottle": {
+      "image": "images/homestead_thick_bottle.png"
+    },
+    "Homestead Tree Planter": {
+      "image": "images/homestead_tree_planter.png"
+    },
+    "Homestead Triangular Rug": {
+      "image": "images/homestead_triangular_rug.png"
+    },
+    "Homestead Wall Cabinet": {
+      "image": "images/homestead_wall_cabinet.png"
+    },
+    "Homestead Wall Clock": {
+      "image": "images/homestead_wall_clock.png"
+    },
+    "Homestead Wall Lamp": {
+      "image": "images/homestead_wall_lamp.png"
+    },
+    "Homestead Wall Shelf": {
+      "image": "images/homestead_wall_shelf.png"
+    },
+    "Homestead Wardrobe": {
+      "image": "images/homestead_wardrobe.png"
+    },
+    "Homestead Wastebasket": {
+      "image": "images/homestead_wastebasket.png"
+    }
+  },
+  "Honeybunch": {
+    "Honeybunch Armchair": {
+      "image": "images/honeybunch_armchair.png"
+    },
+    "Honeybunch Bed": {
+      "image": "images/honeybunch_bed.png"
+    },
+    "Honeybunch Bee Plaque": {
+      "image": "images/honeybunch_bee_plaque.png"
+    },
+    "Honeybunch Bookshelf": {
+      "image": "images/honeybunch_bookshelf.png"
+    },
+    "Honeybunch Chair": {
+      "image": "images/honeybunch_chair.png"
+    },
+    "Honeybunch Dresser": {
+      "image": "images/honeybunch_dresser.png"
+    },
+    "Honeybunch End Table": {
+      "image": "images/honeybunch_end_table.png"
+    },
+    "Honeybunch Hand Towel": {
+      "image": "images/honeybunch_hand_towel.png"
+    },
+    "Honeybunch Hexaframe": {
+      "image": "images/honeybunch_hexaframe.png"
+    },
+    "Honeybunch Hivelight": {
+      "image": "images/honeybunch_hivelight.png"
+    },
+    "Honeybunch Lamp": {
+      "image": "images/honeybunch_lamp.png"
+    },
+    "Honeybunch Mirror": {
+      "image": "images/honeybunch_mirror.png"
+    },
+    "Honeybunch Planter": {
+      "image": "images/honeybunch_planter.png"
+    },
+    "Honeybunch Rug": {
+      "image": "images/honeybunch_rug.png"
+    },
+    "Honeybunch Sconce": {
+      "image": "images/honeybunch_sconce.png"
+    },
+    "Honeybunch Screen": {
+      "image": "images/honeybunch_screen.png"
+    },
+    "Honeybunch Settee": {
+      "image": "images/honeybunch_settee.png"
+    },
+    "Honeybunch Shelf": {
+      "image": "images/honeybunch_shelf.png"
+    },
+    "Honeybunch Shower": {
+      "image": "images/honeybunch_shower.png"
+    },
+    "Honeybunch Sink": {
+      "image": "images/honeybunch_sink.png"
+    },
+    "Honeybunch Table": {
+      "image": "images/honeybunch_table.png"
+    },
+    "Honeybunch Tea Table": {
+      "image": "images/honeybunch_tea_table.png"
+    },
+    "Honeybunch Toilet": {
+      "image": "images/honeybunch_toilet.png"
+    }
+  },
+  "Industrial": {
+    "Industrial Armchair": {
+      "image": "images/industrial_armchair.png"
+    },
+    "Industrial Bathtub": {
+      "image": "images/industrial_bathtub.png"
+    },
+    "Industrial Bed": {
+      "image": "images/industrial_bed.png"
+    },
+    "Industrial Bookshelf": {
+      "image": "images/industrial_bookshelf.png"
+    },
+    "Industrial Cabinet": {
+      "image": "images/industrial_cabinet.png"
+    },
+    "Industrial Chandelier": {
+      "image": "images/industrial_chandelier.png"
+    },
+    "Industrial Coffee Table": {
+      "image": "images/industrial_coffee_table.png"
+    },
+    "Industrial Couch": {
+      "image": "images/industrial_couch.png"
+    },
+    "Industrial Dining Chair": {
+      "image": "images/industrial_dining_chair.png"
+    },
+    "Industrial Dining Table": {
+      "image": "images/industrial_dining_table.png"
+    },
+    "Industrial Dresser": {
+      "image": "images/industrial_dresser.png"
+    },
+    "Industrial Ficus Planter": {
+      "image": "images/industrial_ficus_planter.png"
+    },
+    "Industrial Kitchen Pantry": {
+      "image": "images/industrial_kitchen_pantry.png"
+    },
+    "Industrial Mirror": {
+      "image": "images/industrial_mirror.png"
+    },
+    "Industrial Nightstand": {
+      "image": "images/industrial_nightstand.png"
+    },
+    "Industrial Picture Frame": {
+      "image": "images/industrial_picture_frame.png"
+    },
+    "Industrial Rug": {
+      "image": "images/industrial_rug.png"
+    },
+    "Industrial Runner": {
+      "image": "images/industrial_runner.png"
+    },
+    "Industrial Sink": {
+      "image": "images/industrial_sink.png"
+    },
+    "Industrial Small Rug": {
+      "image": "images/industrial_small_rug.png"
+    },
+    "Industrial Wall Decor": {
+      "image": "images/industrial_wall_decor.png"
+    },
+    "Industrial Wall Lamp": {
+      "image": "images/industrial_wall_lamp.png"
+    },
+    "Industrial Wall Shelf": {
+      "image": "images/industrial_wall_shelf.png"
+    },
+    "Industrial Wardrobe": {
+      "image": "images/industrial_wardrobe.png"
+    }
+  },
+  "Investigator": {
+    "Investigator Armchair": {
+      "image": "images/investigator_armchair.png"
+    },
+    "Investigator Banner": {
+      "image": "images/investigator_banner.png"
+    },
+    "Investigator Bed": {
+      "image": "images/investigator_bed.png"
+    },
+    "Investigator Desk": {
+      "image": "images/investigator_desk.png"
+    },
+    "Investigator Doormat": {
+      "image": "images/investigator_doormat.png"
+    },
+    "Investigator End Table": {
+      "image": "images/investigator_end_table.png"
+    },
+    "Investigator Rug": {
+      "image": "images/investigator_rug.png"
+    },
+    "Investigator Runner": {
+      "image": "images/investigator_runner.png"
+    },
+    "Investigator Sideboard": {
+      "image": "images/investigator_sideboard.png"
+    }
+  },
+  "Kilima": {
+    "Kilima Banner": {
+      "image": "images/kilima_banner.png"
+    },
+    "Kilima Bench": {
+      "image": "images/kilima_bench.png"
+    },
+    "Kilima Candle": {
+      "image": "images/kilima_candle.png"
+    },
+    "Kilima Couch": {
+      "image": "images/kilima_couch.png"
+    },
+    "Kilima Drinking Horn": {
+      "image": "images/kilima_drinking_horn.png"
+    },
+    "Kilima Farmer Portrait": {
+      "image": "images/kilima_farmer_portrait.png"
+    },
+    "Kilima Fireplace Tools": {
+      "image": "images/kilima_fireplace_tools.png"
+    },
+    "Kilima Froggy Bucket": {
+      "image": "images/kilima_froggy_bucket.png"
+    },
+    "Kilima Fruit Basket": {
+      "image": "images/kilima_fruit_basket.png"
+    },
+    "Kilima Horn Bottle": {
+      "image": "images/kilima_horn_bottle.png"
+    },
+    "Kilima Inn Chezuu Game": {
+      "image": "images/kilima_inn_chezuu_game.png"
+    },
+    "Kilima Inn Couch": {
+      "image": "images/kilima_inn_couch.png"
+    },
+    "Kilima Inn Dining Chair": {
+      "image": "images/kilima_inn_dining_chair.png"
+    },
+    "Kilima Inn Dining Table": {
+      "image": "images/kilima_inn_dining_table.png"
+    },
+    "Kilima Inn Large Bottle": {
+      "image": "images/kilima_inn_large_bottle.png"
+    },
+    "Kilima Inn Large Rug": {
+      "image": "images/kilima_inn_large_rug.png"
+    },
+    "Kilima Inn Medium Bottle": {
+      "image": "images/kilima_inn_medium_bottle.png"
+    },
+    "Kilima Inn Round Rug": {
+      "image": "images/kilima_inn_round_rug.png"
+    },
+    "Kilima Inn Round Table": {
+      "image": "images/kilima_inn_round_table.png"
+    },
+    "Kilima Inn Runner": {
+      "image": "images/kilima_inn_runner.png"
+    },
+    "Kilima Inn Stein": {
+      "image": "images/kilima_inn_stein.png"
+    },
+    "Kilima Inn Stool": {
+      "image": "images/kilima_inn_stool.png"
+    },
+    "Kilima Lantern": {
+      "image": "images/kilima_lantern.png"
+    },
+    "Kilima Large Banner": {
+      "image": "images/kilima_large_banner.png"
+    },
+    "Kilima Large Drapes": {
+      "image": "images/kilima_large_drapes.png"
+    },
+    "Kilima Large Lantern": {
+      "image": "images/kilima_large_lantern.png"
+    },
+    "Kilima Quaint Painting": {
+      "image": "images/kilima_quaint_painting.png"
+    },
+    "Kilima Small Drapes": {
+      "image": "images/kilima_small_drapes.png"
+    },
+    "Kilima Small Lantern": {
+      "image": "images/kilima_small_lantern.png"
+    },
+    "Kilima Succulent Planter": {
+      "image": "images/kilima_succulent_planter.png"
+    },
+    "Kilima Tall Painting": {
+      "image": "images/kilima_tall_painting.png"
+    },
+    "Kilima Teacup": {
+      "image": "images/kilima_teacup.png"
+    },
+    "Kilima Teapot": {
+      "image": "images/kilima_teapot.png"
+    },
+    "Kilima Tulip Planter": {
+      "image": "images/kilima_tulip_planter.png"
+    },
+    "Kilima Village Painting": {
+      "image": "images/kilima_village_painting.png"
+    },
+    "Kilima Wagon Wheel": {
+      "image": "images/kilima_wagon_wheel.png"
+    },
+    "Kilima Wheat Planter": {
+      "image": "images/kilima_wheat_planter.png"
+    }
+  },
+  "Library Books": {
+    "Adventure Novel": {
+      "image": "images/adventure_novel.png"
+    },
+    "Architectural Treatise": {
+      "image": "images/architectural_treatise.png"
+    },
+    "Astronomer's Tome": {
+      "image": "images/astronomer_s_tome.png"
+    },
+    "Bird-Spotting Manual": {
+      "image": "images/bird_spotting_manual.png"
+    },
+    "Caleri's Choice Book": {
+      "image": "images/caleri_s_choice_book.png"
+    },
+    "Embossed Tome": {
+      "image": "images/embossed_tome.png"
+    },
+    "Handmade Guide": {
+      "image": "images/handmade_guide.png"
+    },
+    "Majiri Dictionary": {
+      "image": "images/majiri_dictionary.png"
+    },
+    "Navigator's Notebook": {
+      "image": "images/navigator_s_notebook.png"
+    },
+    "Poetic Anthology": {
+      "image": "images/poetic_anthology.png"
+    },
+    "Romance Novel": {
+      "image": "images/romance_novel.png"
+    }
+  },
+  "Lily Rattan": {
+    "Lily Rattan Armchair": {
+      "image": "images/lily_rattan_armchair.png"
+    },
+    "Lily Rattan Bed": {
+      "image": "images/lily_rattan_bed.png"
+    },
+    "Lily Rattan Bench": {
+      "image": "images/lily_rattan_bench.png"
+    },
+    "Lily Rattan Bookshelf": {
+      "image": "images/lily_rattan_bookshelf.png"
+    },
+    "Lily Rattan Bottle": {
+      "image": "images/lily_rattan_bottle.png"
+    },
+    "Lily Rattan Chandelier": {
+      "image": "images/lily_rattan_chandelier.png"
+    },
+    "Lily Rattan Coffee Table": {
+      "image": "images/lily_rattan_coffee_table.png"
+    },
+    "Lily Rattan Cotton Vase": {
+      "image": "images/lily_rattan_cotton_vase.png"
+    },
+    "Lily Rattan Couch": {
+      "image": "images/lily_rattan_couch.png"
+    },
+    "Lily Rattan Dining Chair": {
+      "image": "images/lily_rattan_dining_chair.png"
+    },
+    "Lily Rattan Dining Table": {
+      "image": "images/lily_rattan_dining_table.png"
+    },
+    "Lily Rattan Dresser": {
+      "image": "images/lily_rattan_dresser.png"
+    },
+    "Lily Rattan End Table": {
+      "image": "images/lily_rattan_end_table.png"
+    },
+    "Lily Rattan Frame": {
+      "image": "images/lily_rattan_frame.png"
+    },
+    "Lily Rattan Large Jug": {
+      "image": "images/lily_rattan_large_jug.png"
+    },
+    "Lily Rattan Large Planter": {
+      "image": "images/lily_rattan_large_planter.png"
+    },
+    "Lily Rattan Large Rug": {
+      "image": "images/lily_rattan_large_rug.png"
+    },
+    "Lily Rattan Medium Jug": {
+      "image": "images/lily_rattan_medium_jug.png"
+    },
+    "Lily Rattan Nightstand": {
+      "image": "images/lily_rattan_nightstand.png"
+    },
+    "Lily Rattan Partition": {
+      "image": "images/lily_rattan_partition.png"
+    },
+    "Lily Rattan Runner": {
+      "image": "images/lily_rattan_runner.png"
+    },
+    "Lily Rattan Small Planter": {
+      "image": "images/lily_rattan_small_planter.png"
+    },
+    "Lily Rattan Standing Vase": {
+      "image": "images/lily_rattan_standing_vase.png"
+    },
+    "Lily Rattan Table Lamp": {
+      "image": "images/lily_rattan_table_lamp.png"
+    },
+    "Lily Rattan Umbrella": {
+      "image": "images/lily_rattan_umbrella.png"
+    },
+    "Lily Rattan Wall Art": {
+      "image": "images/lily_rattan_wall_art.png"
+    },
+    "Lily Rattan Wall Lamp": {
+      "image": "images/lily_rattan_wall_lamp.png"
+    },
+    "Lily Rattan Wall Shelf": {
+      "image": "images/lily_rattan_wall_shelf.png"
+    },
+    "Lily Rattan Wardrobe": {
+      "image": "images/lily_rattan_wardrobe.png"
+    }
+  },
+  "Log Cabin": {
+    "Log Cabin Armchair": {
+      "image": "images/log_cabin_armchair.png"
+    },
+    "Log Cabin Bed": {
+      "image": "images/log_cabin_bed.png"
+    },
+    "Log Cabin Bookshelf": {
+      "image": "images/log_cabin_bookshelf.png"
+    },
+    "Log Cabin Chandelier": {
+      "image": "images/log_cabin_chandelier.png"
+    },
+    "Log Cabin Coffee Table": {
+      "image": "images/log_cabin_coffee_table.png"
+    },
+    "Log Cabin Couch": {
+      "image": "images/log_cabin_couch.png"
+    },
+    "Log Cabin Dining Chair": {
+      "image": "images/log_cabin_dining_chair.png"
+    },
+    "Log Cabin Dining Table": {
+      "image": "images/log_cabin_dining_table.png"
+    },
+    "Log Cabin Double Gate": {
+      "image": "images/log_cabin_double_gate.png"
+    },
+    "Log Cabin Fence": {
+      "image": "images/log_cabin_fence.png"
+    },
+    "Log Cabin Folding Screen": {
+      "image": "images/log_cabin_folding_screen.png"
+    },
+    "Log Cabin Garden Sernuk": {
+      "image": "images/log_cabin_garden_sernuk.png"
+    },
+    "Log Cabin Haabeko Rug": {
+      "image": "images/log_cabin_haabeko_rug.png"
+    },
+    "Log Cabin Large Bench": {
+      "image": "images/log_cabin_large_bench.png"
+    },
+    "Log Cabin Large Torch": {
+      "image": "images/log_cabin_large_torch.png"
+    },
+    "Log Cabin Log Carrier": {
+      "image": "images/log_cabin_log_carrier.png"
+    },
+    "Log Cabin Nightstand": {
+      "image": "images/log_cabin_nightstand.png"
+    },
+    "Log Cabin Outdoor Lamp": {
+      "image": "images/log_cabin_outdoor_lamp.png"
+    },
+    "Log Cabin Patterned Rug": {
+      "image": "images/log_cabin_patterned_rug.png"
+    },
+    "Log Cabin Planter": {
+      "image": "images/log_cabin_planter.png"
+    },
+    "Log Cabin Short Lamp": {
+      "image": "images/log_cabin_short_lamp.png"
+    },
+    "Log Cabin Sideboard": {
+      "image": "images/log_cabin_sideboard.png"
+    },
+    "Log Cabin Small Bench": {
+      "image": "images/log_cabin_small_bench.png"
+    },
+    "Log Cabin Small Torch": {
+      "image": "images/log_cabin_small_torch.png"
+    },
+    "Log Cabin Standing Lamp": {
+      "image": "images/log_cabin_standing_lamp.png"
+    },
+    "Log Cabin Stool": {
+      "image": "images/log_cabin_stool.png"
+    },
+    "Log Cabin Stump Chair": {
+      "image": "images/log_cabin_stump_chair.png"
+    },
+    "Log Cabin Swing Gate": {
+      "image": "images/log_cabin_swing_gate.png"
+    },
+    "Log Cabin Wall Cabinet": {
+      "image": "images/log_cabin_wall_cabinet.png"
+    },
+    "Log Cabin Wall Clock": {
+      "image": "images/log_cabin_wall_clock.png"
+    },
+    "Log Cabin Wall Decor": {
+      "image": "images/log_cabin_wall_decor.png"
+    },
+    "Log Cabin Wall Lamp": {
+      "image": "images/log_cabin_wall_lamp.png"
+    },
+    "Log Cabin Wall Shelf": {
+      "image": "images/log_cabin_wall_shelf.png"
+    },
+    "Log Cabin Wall Torch": {
+      "image": "images/log_cabin_wall_torch.png"
+    },
+    "Log Cabin Wardrobe": {
+      "image": "images/log_cabin_wardrobe.png"
+    }
+  },
+  "Maji Market": {
+    "Azure Chapaa Balloon": {
+      "image": "images/azure_chapaa_balloon.png"
+    },
+    "Maji Market Arch": {
+      "image": "images/maji_market_arch.png"
+    },
+    "Maji Market Basket": {
+      "image": "images/maji_market_basket.png"
+    },
+    "Maji Market Bloom Lantern": {
+      "image": "images/maji_market_bloom_lantern.png"
+    },
+    "Maji Market Cart": {
+      "image": "images/maji_market_cart.png"
+    },
+    "Maji Market Chapaa Standee": {
+      "image": "images/maji_market_chapaa_standee.png"
+    },
+    "Maji Market Dragon Fan": {
+      "image": "images/maji_market_dragon_fan.png"
+    },
+    "Maji Market Folding Screen": {
+      "image": "images/maji_market_folding_screen.png"
+    },
+    "Maji Market Fruit Post": {
+      "image": "images/maji_market_fruit_post.png"
+    },
+    "Maji Market Hourglass Drum": {
+      "image": "images/maji_market_hourglass_drum.png"
+    },
+    "Maji Market Human Standee": {
+      "image": "images/maji_market_human_standee.png"
+    },
+    "Maji Market Lantern": {
+      "image": "images/maji_market_lantern.png"
+    },
+    "Maji Market Moon Banner": {
+      "image": "images/maji_market_moon_banner.png"
+    },
+    "Maji Market No Hunt Sign": {
+      "image": "images/maji_market_no_hunt_sign.png"
+    },
+    "Maji Market Ormuu Standee": {
+      "image": "images/maji_market_ormuu_standee.png"
+    },
+    "Maji Market Springblossom Vase": {
+      "image": "images/maji_market_springblossom_vase.png"
+    },
+    "Maji Market Tall Lantern": {
+      "image": "images/maji_market_tall_lantern.png"
+    },
+    "Maji Market Veggie Lantern": {
+      "image": "images/maji_market_veggie_lantern.png"
+    },
+    "Maji Market Woven Basket": {
+      "image": "images/maji_market_woven_basket.png"
+    },
+    "Maji Treasure Chest": {
+      "image": "images/maji_treasure_chest.png"
+    },
+    "Rainbow Maji Plush": {
+      "image": "images/rainbow_maji_plush.png"
+    },
+    "Simple Chapaa Balloon": {
+      "image": "images/simple_chapaa_balloon.png"
+    },
+    "Striped Chapaa Balloon": {
+      "image": "images/striped_chapaa_balloon.png"
+    }
+  },
+  "Makeshift": {
+    "Makeshift Alarm Clock": {
+      "image": "images/makeshift_alarm_clock.png"
+    },
+    "Makeshift Armchair": {
+      "image": "images/makeshift_armchair.png"
+    },
+    "Makeshift Bed": {
+      "image": "images/makeshift_bed.png"
+    },
+    "Makeshift Bench": {
+      "image": "images/makeshift_bench.png"
+    },
+    "Makeshift Bird Bath": {
+      "image": "images/makeshift_bird_bath.png"
+    },
+    "Makeshift Bookshelf": {
+      "image": "images/makeshift_bookshelf.png"
+    },
+    "Makeshift Bucket Planter": {
+      "image": "images/makeshift_bucket_planter.png"
+    },
+    "Makeshift Candle Holder": {
+      "image": "images/makeshift_candle_holder.png"
+    },
+    "Makeshift Chandelier": {
+      "image": "images/makeshift_chandelier.png"
+    },
+    "Makeshift Chapaa Hide Rug": {
+      "image": "images/makeshift_chapaa_hide_rug.png"
+    },
+    "Makeshift Charcuterie": {
+      "image": "images/makeshift_charcuterie.png"
+    },
+    "Makeshift Chest": {
+      "image": "images/makeshift_chest.png"
+    },
+    "Makeshift Chopping Block": {
+      "image": "images/makeshift_chopping_block.png"
+    },
+    "Makeshift Chopping Board": {
+      "image": "images/makeshift_chopping_board.png"
+    },
+    "Makeshift Clothesline": {
+      "image": "images/makeshift_clothesline.png"
+    },
+    "Makeshift Coat Rack": {
+      "image": "images/makeshift_coat_rack.png"
+    },
+    "Makeshift Coffee Table": {
+      "image": "images/makeshift_coffee_table.png"
+    },
+    "Makeshift Cookware": {
+      "image": "images/makeshift_cookware.png"
+    },
+    "Makeshift Couch": {
+      "image": "images/makeshift_couch.png"
+    },
+    "Makeshift Cutting Board": {
+      "image": "images/makeshift_cutting_board.png"
+    },
+    "Makeshift Dresser": {
+      "image": "images/makeshift_dresser.png"
+    },
+    "Makeshift Drum Table": {
+      "image": "images/makeshift_drum_table.png"
+    },
+    "Makeshift End Table": {
+      "image": "images/makeshift_end_table.png"
+    },
+    "Makeshift Face Mirror": {
+      "image": "images/makeshift_face_mirror.png"
+    },
+    "Makeshift Failed Planter": {
+      "image": "images/makeshift_failed_planter.png"
+    },
+    "Makeshift Ficus Planter": {
+      "image": "images/makeshift_ficus_planter.png"
+    },
+    "Makeshift Floor Cabinet": {
+      "image": "images/makeshift_floor_cabinet.png"
+    },
+    "Makeshift Flower Planter": {
+      "image": "images/makeshift_flower_planter.png"
+    },
+    "Makeshift Garden Bed": {
+      "image": "images/makeshift_garden_bed.png"
+    },
+    "Makeshift Garden Chapaa": {
+      "image": "images/makeshift_garden_chapaa.png"
+    },
+    "Makeshift Hanging Planter": {
+      "image": "images/makeshift_hanging_planter.png"
+    },
+    "Makeshift Herb Planter": {
+      "image": "images/makeshift_herb_planter.png"
+    },
+    "Makeshift Indoor Garden": {
+      "image": "images/makeshift_indoor_garden.png"
+    },
+    "Makeshift Ladder": {
+      "image": "images/makeshift_ladder.png"
+    },
+    "Makeshift Large Cabinet": {
+      "image": "images/makeshift_large_cabinet.png"
+    },
+    "Makeshift Large Curtain": {
+      "image": "images/makeshift_large_curtain.png"
+    },
+    "Makeshift Large Lamp": {
+      "image": "images/makeshift_large_lamp.png"
+    },
+    "Makeshift Large Planter": {
+      "image": "images/makeshift_large_planter.png"
+    },
+    "Makeshift Large Shelf": {
+      "image": "images/makeshift_large_shelf.png"
+    },
+    "Makeshift Large Table": {
+      "image": "images/makeshift_large_table.png"
+    },
+    "Makeshift Large Wreath": {
+      "image": "images/makeshift_large_wreath.png"
+    },
+    "Makeshift Lawn Chair": {
+      "image": "images/makeshift_lawn_chair.png"
+    },
+    "Makeshift Log Carrier": {
+      "image": "images/makeshift_log_carrier.png"
+    },
+    "Makeshift Medium Planter": {
+      "image": "images/makeshift_medium_planter.png"
+    },
+    "Makeshift Nightstand": {
+      "image": "images/makeshift_nightstand.png"
+    },
+    "Makeshift Outhouse": {
+      "image": "images/makeshift_outhouse.png"
+    },
+    "Makeshift Pantry": {
+      "image": "images/makeshift_pantry.png"
+    },
+    "Makeshift Patio Umbrella": {
+      "image": "images/makeshift_patio_umbrella.png"
+    },
+    "Makeshift Pergola": {
+      "image": "images/makeshift_pergola.png"
+    },
+    "Makeshift Picnic Blanket": {
+      "image": "images/makeshift_picnic_blanket.png"
+    },
+    "Makeshift Picnic Table": {
+      "image": "images/makeshift_picnic_table.png"
+    },
+    "Makeshift Porthole Frame": {
+      "image": "images/makeshift_porthole_frame.png"
+    },
+    "Makeshift Rectangular Rug": {
+      "image": "images/makeshift_rectangular_rug.png"
+    },
+    "Makeshift Round End Table": {
+      "image": "images/makeshift_round_end_table.png"
+    },
+    "Makeshift Scenic Frame": {
+      "image": "images/makeshift_scenic_frame.png"
+    },
+    "Makeshift Sernuk Hide Rug": {
+      "image": "images/makeshift_sernuk_hide_rug.png"
+    },
+    "Makeshift Short End Table": {
+      "image": "images/makeshift_short_end_table.png"
+    },
+    "Makeshift Small Cabinet": {
+      "image": "images/makeshift_small_cabinet.png"
+    },
+    "Makeshift Small Curtain": {
+      "image": "images/makeshift_small_curtain.png"
+    },
+    "Makeshift Small Frame": {
+      "image": "images/makeshift_small_frame.png"
+    },
+    "Makeshift Small Lamp": {
+      "image": "images/makeshift_small_lamp.png"
+    },
+    "Makeshift Small Planter": {
+      "image": "images/makeshift_small_planter.png"
+    },
+    "Makeshift Small Table": {
+      "image": "images/makeshift_small_table.png"
+    },
+    "Makeshift Square Rug": {
+      "image": "images/makeshift_square_rug.png"
+    },
+    "Makeshift Stool": {
+      "image": "images/makeshift_stool.png"
+    },
+    "Makeshift Succulent Pot": {
+      "image": "images/makeshift_succulent_pot.png"
+    },
+    "Makeshift Tent": {
+      "image": "images/makeshift_tent.png"
+    },
+    "Makeshift Thick Candle": {
+      "image": "images/makeshift_thick_candle.png"
+    },
+    "Makeshift Thin Candle": {
+      "image": "images/makeshift_thin_candle.png"
+    },
+    "Makeshift Thistle Planter": {
+      "image": "images/makeshift_thistle_planter.png"
+    },
+    "Makeshift Trellis": {
+      "image": "images/makeshift_trellis.png"
+    },
+    "Makeshift Wall Clock": {
+      "image": "images/makeshift_wall_clock.png"
+    },
+    "Makeshift Wall Lamp": {
+      "image": "images/makeshift_wall_lamp.png"
+    },
+    "Makeshift Wall Shelf": {
+      "image": "images/makeshift_wall_shelf.png"
+    },
+    "Makeshift Wardrobe": {
+      "image": "images/makeshift_wardrobe.png"
+    },
+    "Makeshift Wastebasket": {
+      "image": "images/makeshift_wastebasket.png"
+    },
+    "Makeshift Window Shelf": {
+      "image": "images/makeshift_window_shelf.png"
+    },
+    "Makeshift Window Shutter": {
+      "image": "images/makeshift_window_shutter.png"
+    }
+  },
+  "Mermaid": {
+    "Mermaid Chair": {
+      "image": "images/mermaid_chair.png"
+    },
+    "Mermaid Harp": {
+      "image": "images/mermaid_harp.png"
+    },
+    "Mermaid Lamp": {
+      "image": "images/mermaid_lamp.png"
+    }
+  },
+  "Merpods": {
+    "Ariel the Merpod": {
+      "image": "images/ariel_the_merpod.png"
+    },
+    "Jelly the Merpod": {
+      "image": "images/jelly_the_merpod.png"
+    },
+    "Kelpie the Merpod": {
+      "image": "images/kelpie_the_merpod.png"
+    },
+    "Nori the Merpod": {
+      "image": "images/nori_the_merpod.png"
+    }
+  },
+  "Moonstruck": {
+    "Moonstruck Bathtub": {
+      "image": "images/moonstruck_bathtub.png"
+    },
+    "Moonstruck Bed": {
+      "image": "images/moonstruck_bed.png"
+    },
+    "Moonstruck Bookshelf": {
+      "image": "images/moonstruck_bookshelf.png"
+    },
+    "Moonstruck Chandelier": {
+      "image": "images/moonstruck_chandelier.png"
+    },
+    "Moonstruck Coffee Table": {
+      "image": "images/moonstruck_coffee_table.png"
+    },
+    "Moonstruck Couch": {
+      "image": "images/moonstruck_couch.png"
+    },
+    "Moonstruck Dining Chair": {
+      "image": "images/moonstruck_dining_chair.png"
+    },
+    "Moonstruck Dining Table": {
+      "image": "images/moonstruck_dining_table.png"
+    },
+    "Moonstruck Fungi Planter": {
+      "image": "images/moonstruck_fungi_planter.png"
+    },
+    "Moonstruck Grimoire": {
+      "image": "images/moonstruck_grimoire.png"
+    },
+    "Moonstruck Lantern": {
+      "image": "images/moonstruck_lantern.png"
+    },
+    "Moonstruck Nightstand": {
+      "image": "images/moonstruck_nightstand.png"
+    },
+    "Moonstruck Rug": {
+      "image": "images/moonstruck_rug.png"
+    },
+    "Moonstruck Runner": {
+      "image": "images/moonstruck_runner.png"
+    },
+    "Moonstruck Small Rug": {
+      "image": "images/moonstruck_small_rug.png"
+    },
+    "Moonstruck Sundial": {
+      "image": "images/moonstruck_sundial.png"
+    },
+    "Moonstruck Table Lamp": {
+      "image": "images/moonstruck_table_lamp.png"
+    },
+    "Moonstruck Wall Decor": {
+      "image": "images/moonstruck_wall_decor.png"
+    },
+    "Moonstruck Wall Shelf": {
+      "image": "images/moonstruck_wall_shelf.png"
+    },
+    "Moonstruck Wardrobe": {
+      "image": "images/moonstruck_wardrobe.png"
+    }
+  },
+  "Mushpods": {
+    "Bluebell the Mushpod": {
+      "image": "images/bluebell_the_mushpod.png"
+    },
+    "Hopper the Mushpod": {
+      "image": "images/hopper_the_mushpod.png"
+    },
+    "Port the Mushpod": {
+      "image": "images/port_the_mushpod.png"
+    },
+    "Sunny the Mushpod": {
+      "image": "images/sunny_the_mushpod.png"
+    }
+  },
+  "New Year": {
+    "Golden Riffroc Plush": {
+      "image": "images/golden_riffroc_plush.png"
+    },
+    "LNY Harvest Basket": {
+      "image": "images/lny_harvest_basket.png"
+    },
+    "LNY Market Basket": {
+      "image": "images/lny_market_basket.png"
+    },
+    "LNY Shoji Screen": {
+      "image": "images/lny_shoji_screen.png"
+    },
+    "LNY Tea Tin": {
+      "image": "images/lny_tea_tin.png"
+    },
+    "LNY Treasure Box": {
+      "image": "images/lny_treasure_box.png"
+    },
+    "Luna New Year Poster": {
+      "image": "images/luna_new_year_poster.png"
+    },
+    "New Year Banquet Chair": {
+      "image": "images/new_year_banquet_chair.png"
+    },
+    "New Year Banquet Table": {
+      "image": "images/new_year_banquet_table.png"
+    },
+    "New Year Bench": {
+      "image": "images/new_year_bench.png"
+    },
+    "New Year Blue Ornament": {
+      "image": "images/new_year_blue_ornament.png"
+    },
+    "New Year Blue Wall Decor": {
+      "image": "images/new_year_blue_wall_decor.png"
+    },
+    "New Year Candy Box": {
+      "image": "images/new_year_candy_box.png"
+    },
+    "New Year Corner Lamp Post": {
+      "image": "images/new_year_corner_lamp_post.png"
+    },
+    "New Year Decorative Fruit": {
+      "image": "images/new_year_decorative_fruit.png"
+    },
+    "New Year Lucky Wish Tree": {
+      "image": "images/new_year_lucky_wish_tree.png"
+    },
+    "New Year Orange Ornament": {
+      "image": "images/new_year_orange_ornament.png"
+    },
+    "New Year Orange Wall Decor": {
+      "image": "images/new_year_orange_wall_decor.png"
+    },
+    "New Year Personal Hot Pot": {
+      "image": "images/new_year_personal_hot_pot.png"
+    },
+    "New Year Pink Ornament": {
+      "image": "images/new_year_pink_ornament.png"
+    },
+    "New Year Pink Wall Decor": {
+      "image": "images/new_year_pink_wall_decor.png"
+    },
+    "New Year Short Lamp Post": {
+      "image": "images/new_year_short_lamp_post.png"
+    },
+    "New Year Tall Lamp Post": {
+      "image": "images/new_year_tall_lamp_post.png"
+    },
+    "New Year Wall Banner": {
+      "image": "images/new_year_wall_banner.png"
+    },
+    "Year of the Naga Plush": {
+      "image": "images/year_of_the_naga_plush.png"
+    },
+    "Year of the Naga Poster": {
+      "image": "images/year_of_the_naga_poster.png"
+    },
+    "Year of the Riffroc Poster": {
+      "image": "images/year_of_the_riffroc_poster.png"
+    }
+  },
+  "Palcat": {
+    "Nox the Palcat Plush": {
+      "image": "images/nox_the_palcat_plush.png"
+    },
+    "Palcat Party Large Rug": {
+      "image": "images/palcat_party_large_rug.png"
+    },
+    "Palcat Party Small Rug": {
+      "image": "images/palcat_party_small_rug.png"
+    },
+    "Palcat Party Wallpaper": {
+      "image": "images/palcat_party_wallpaper.png"
+    },
+    "Sandi the Palcat Plush": {
+      "image": "images/sandi_the_palcat_plush.png"
+    },
+    "Sandy Palcat Pal Mat": {
+      "image": "images/sandy_palcat_pal_mat.png"
+    },
+    "Sandy Palcat Pattern Rug": {
+      "image": "images/sandy_palcat_pattern_rug.png"
+    },
+    "Sandy Palcat Wallpaper": {
+      "image": "images/sandy_palcat_wallpaper.png"
+    },
+    "Stackable Palcat Pillow": {
+      "image": "images/stackable_palcat_pillow.png"
+    }
+  },
+  "PalTech": {
+    "PalTech Ceiling Fan": {
+      "image": "images/paltech_ceiling_fan.png"
+    },
+    "PalTech Coffee Table": {
+      "image": "images/paltech_coffee_table.png"
+    },
+    "PalTech Desk Fan": {
+      "image": "images/paltech_desk_fan.png"
+    },
+    "PalTech Desk Lamp": {
+      "image": "images/paltech_desk_lamp.png"
+    },
+    "PalTech Double Wall Shelf": {
+      "image": "images/paltech_double_wall_shelf.png"
+    },
+    "PalTech Drink Dispenser": {
+      "image": "images/paltech_drink_dispenser.png"
+    },
+    "PalTech Flange Pipe": {
+      "image": "images/paltech_flange_pipe.png"
+    },
+    "PalTech Glove": {
+      "image": "images/paltech_glove.png"
+    },
+    "PalTech Gyroscope": {
+      "image": "images/paltech_gyroscope.png"
+    },
+    "PalTech Icebox": {
+      "image": "images/paltech_icebox.png"
+    },
+    "PalTech Kettle": {
+      "image": "images/paltech_kettle.png"
+    },
+    "PalTech Lantern": {
+      "image": "images/paltech_lantern.png"
+    },
+    "PalTech Large Floor Vent": {
+      "image": "images/paltech_large_floor_vent.png"
+    },
+    "PalTech Large Wall Vent": {
+      "image": "images/paltech_large_wall_vent.png"
+    },
+    "PalTech Long Floor Vent": {
+      "image": "images/paltech_long_floor_vent.png"
+    },
+    "PalTech Long Pipe": {
+      "image": "images/paltech_long_pipe.png"
+    },
+    "PalTech Medium Pipe": {
+      "image": "images/paltech_medium_pipe.png"
+    },
+    "PalTech Medium Wall Vent": {
+      "image": "images/paltech_medium_wall_vent.png"
+    },
+    "PalTech Microscope": {
+      "image": "images/paltech_microscope.png"
+    },
+    "PalTech Picture Frame": {
+      "image": "images/paltech_picture_frame.png"
+    },
+    "PalTech Radio": {
+      "image": "images/paltech_radio.png"
+    },
+    "PalTech Range Hood": {
+      "image": "images/paltech_range_hood.png"
+    },
+    "PalTech Round End Table": {
+      "image": "images/paltech_round_end_table.png"
+    },
+    "PalTech Round Floor Vent": {
+      "image": "images/paltech_round_floor_vent.png"
+    },
+    "PalTech Short Pipe": {
+      "image": "images/paltech_short_pipe.png"
+    },
+    "PalTech Sink": {
+      "image": "images/paltech_sink.png"
+    },
+    "PalTech Small Wall Vent": {
+      "image": "images/paltech_small_wall_vent.png"
+    },
+    "PalTech Square End Table": {
+      "image": "images/paltech_square_end_table.png"
+    },
+    "PalTech Square Floor Vent": {
+      "image": "images/paltech_square_floor_vent.png"
+    },
+    "PalTech Wall Clock": {
+      "image": "images/paltech_wall_clock.png"
+    },
+    "PalTech Wall Lamp": {
+      "image": "images/paltech_wall_lamp.png"
+    },
+    "PalTech Wall Shelf": {
+      "image": "images/paltech_wall_shelf.png"
+    }
+  },
+  "Pavers": {
+    "Round Concrete Paver": {
+      "image": "images/round_concrete_paver.png"
+    },
+    "Sandstone Flagstone Paver": {
+      "image": "images/sandstone_flagstone_paver.png"
+    },
+    "Square Concrete Paver": {
+      "image": "images/square_concrete_paver.png"
+    },
+    "Terracotta Paver": {
+      "image": "images/terracotta_paver.png"
+    },
+    "Wood Plank Paver": {
+      "image": "images/wood_plank_paver.png"
+    },
+    "Wood Slab Paver": {
+      "image": "images/wood_slab_paver.png"
+    }
+  },
+  "Pirate": {
+    "Pirate Grimalkin Chest": {
+      "image": "images/pirate_grimalkin_chest.png"
+    },
+    "Pirate Large Coin Pile": {
+      "image": "images/pirate_large_coin_pile.png"
+    },
+    "Pirate Navigator Maps": {
+      "image": "images/pirate_navigator_maps.png"
+    },
+    "Pirate Pilfered Frame": {
+      "image": "images/pirate_pilfered_frame.png"
+    },
+    "Pirate Seafaring Kegs": {
+      "image": "images/pirate_seafaring_kegs.png"
+    },
+    "Pirate Ship's Cannon": {
+      "image": "images/pirate_ship_s_cannon.png"
+    },
+    "Pirate Small Coin Pile": {
+      "image": "images/pirate_small_coin_pile.png"
+    },
+    "Pirate Stolen Frame": {
+      "image": "images/pirate_stolen_frame.png"
+    },
+    "Pirate Tankard": {
+      "image": "images/pirate_tankard.png"
+    },
+    "Pirate Tattered Cloths": {
+      "image": "images/pirate_tattered_cloths.png"
+    },
+    "Pirate Wanted Poster": {
+      "image": "images/pirate_wanted_poster.png"
+    },
+    "Pirate's Secret Scroll": {
+      "image": "images/pirate_s_secret_scroll.png"
+    },
+    "Worn Mouse Plush": {
+      "image": "images/worn_mouse_plush.png"
+    }
+  },
+  "Planterlife": {
+    "Planterlife Apple": {
+      "image": "images/planterlife_apple.png"
+    },
+    "Planterlife Beans": {
+      "image": "images/planterlife_beans.png"
+    },
+    "Planterlife Blueberry": {
+      "image": "images/planterlife_blueberry.png"
+    },
+    "Planterlife Cotton": {
+      "image": "images/planterlife_cotton.png"
+    },
+    "Planterlife Dirt Pile": {
+      "image": "images/planterlife_dirt_pile.png"
+    },
+    "Planterlife Nappa Cabbage": {
+      "image": "images/planterlife_nappa_cabbage.png"
+    },
+    "Planterlife Peppers": {
+      "image": "images/planterlife_peppers.png"
+    },
+    "Planterlife Tomato": {
+      "image": "images/planterlife_tomato.png"
+    }
+  },
+  "Potato Pods": {
+    "Junior the Potato Pod": {
+      "image": "images/junior_the_potato_pod.png"
+    },
+    "Mo the Potato Pod": {
+      "image": "images/mo_the_potato_pod.png"
+    },
+    "Prickly the Potato Pod": {
+      "image": "images/prickly_the_potato_pod.png"
+    },
+    "Shaggy the Potato Pod": {
+      "image": "images/shaggy_the_potato_pod.png"
+    },
+    "Whirly the Potato Pod": {
+      "image": "images/whirly_the_potato_pod.png"
+    }
+  },
+  "Prettypods": {
+    "Cosmo the Prettypod": {
+      "image": "images/cosmo_the_prettypod.png"
+    },
+    "Dandy the Prettypod": {
+      "image": "images/dandy_the_prettypod.png"
+    },
+    "Dorian the Prettypod": {
+      "image": "images/dorian_the_prettypod.png"
+    },
+    "Priscilla the Prettypod": {
+      "image": "images/priscilla_the_prettypod.png"
+    }
+  },
+  "Prismbeard's": {
+    "Prismbeard Statue": {
+      "image": "images/prismbeard_statue.png"
+    },
+    "Prismbeard's Figurehead": {
+      "image": "images/prismbeard_s_figurehead.png"
+    },
+    "Prismbeard's Lamp": {
+      "image": "images/prismbeard_s_lamp.png"
+    },
+    "Prismbeard's Map": {
+      "image": "images/prismbeard_s_map.png"
+    }
+  },
+  "Ranch House": {
+    "Ranch House 99-Acre Rug": {
+      "image": "images/ranch_house_99_acre_rug.png"
+    },
+    "Ranch House Armchair": {
+      "image": "images/ranch_house_armchair.png"
+    },
+    "Ranch House Bathtub": {
+      "image": "images/ranch_house_bathtub.png"
+    },
+    "Ranch House Bed": {
+      "image": "images/ranch_house_bed.png"
+    },
+    "Ranch House Bench": {
+      "image": "images/ranch_house_bench.png"
+    },
+    "Ranch House Bookshelf": {
+      "image": "images/ranch_house_bookshelf.png"
+    },
+    "Ranch House Butterball": {
+      "image": "images/ranch_house_butterball.png"
+    },
+    "Ranch House Chandelier": {
+      "image": "images/ranch_house_chandelier.png"
+    },
+    "Ranch House Cherrytail": {
+      "image": "images/ranch_house_cherrytail.png"
+    },
+    "Ranch House Coffee Table": {
+      "image": "images/ranch_house_coffee_table.png"
+    },
+    "Ranch House Cottonbean": {
+      "image": "images/ranch_house_cottonbean.png"
+    },
+    "Ranch House Couch": {
+      "image": "images/ranch_house_couch.png"
+    },
+    "Ranch House Dining Chair": {
+      "image": "images/ranch_house_dining_chair.png"
+    },
+    "Ranch House Dining Table": {
+      "image": "images/ranch_house_dining_table.png"
+    },
+    "Ranch House Doormat": {
+      "image": "images/ranch_house_doormat.png"
+    },
+    "Ranch House Floor Cabinet": {
+      "image": "images/ranch_house_floor_cabinet.png"
+    },
+    "Ranch House Flower Pot": {
+      "image": "images/ranch_house_flower_pot.png"
+    },
+    "Ranch House Fountain": {
+      "image": "images/ranch_house_fountain.png"
+    },
+    "Ranch House Mirror": {
+      "image": "images/ranch_house_mirror.png"
+    },
+    "Ranch House Nightstand": {
+      "image": "images/ranch_house_nightstand.png"
+    },
+    "Ranch House Pantry": {
+      "image": "images/ranch_house_pantry.png"
+    },
+    "Ranch House Rug": {
+      "image": "images/ranch_house_rug.png"
+    },
+    "Ranch House Sink": {
+      "image": "images/ranch_house_sink.png"
+    },
+    "Ranch House Table Lamp": {
+      "image": "images/ranch_house_table_lamp.png"
+    },
+    "Ranch House Veggie Pot": {
+      "image": "images/ranch_house_veggie_pot.png"
+    },
+    "Ranch House Wall Cabinet": {
+      "image": "images/ranch_house_wall_cabinet.png"
+    },
+    "Ranch House Wall Decor": {
+      "image": "images/ranch_house_wall_decor.png"
+    },
+    "Ranch House Wall Shelf": {
+      "image": "images/ranch_house_wall_shelf.png"
+    },
+    "Ranch House Wardrobe": {
+      "image": "images/ranch_house_wardrobe.png"
+    }
+  },
+  "Rancher's": {
+    "Rancher's Apple Bag": {
+      "image": "images/rancher_s_apple_bag.png"
+    },
+    "Rancher's Apple Bowl": {
+      "image": "images/rancher_s_apple_bowl.png"
+    },
+    "Rancher's Green Jar": {
+      "image": "images/rancher_s_green_jar.png"
+    },
+    "Rancher's Hay Roll Stack": {
+      "image": "images/rancher_s_hay_roll_stack.png"
+    },
+    "Rancher's Large Haypile": {
+      "image": "images/rancher_s_large_haypile.png"
+    },
+    "Rancher's Lopsided Fence": {
+      "image": "images/rancher_s_lopsided_fence.png"
+    },
+    "Rancher's Milk Jug": {
+      "image": "images/rancher_s_milk_jug.png"
+    },
+    "Rancher's Onion Bag": {
+      "image": "images/rancher_s_onion_bag.png"
+    },
+    "Rancher's Produce Bag": {
+      "image": "images/rancher_s_produce_bag.png"
+    },
+    "Rancher's Purple Jar": {
+      "image": "images/rancher_s_purple_jar.png"
+    },
+    "Rancher's Rustic Fence 1": {
+      "image": "images/rancher_s_rustic_fence_1.png"
+    },
+    "Rancher's Rustic Fence 2": {
+      "image": "images/rancher_s_rustic_fence_2.png"
+    },
+    "Rancher's Shelves": {
+      "image": "images/rancher_s_shelves.png"
+    },
+    "Rancher's Side Hay Roll": {
+      "image": "images/rancher_s_side_hay_roll.png"
+    },
+    "Rancher's Small Haypile": {
+      "image": "images/rancher_s_small_haypile.png"
+    },
+    "Rancher's Toolstand": {
+      "image": "images/rancher_s_toolstand.png"
+    },
+    "Rancher's Trough": {
+      "image": "images/rancher_s_trough.png"
+    },
+    "Rancher's Upright Hay Roll": {
+      "image": "images/rancher_s_upright_hay_roll.png"
+    },
+    "Rancher's Wooden Barrel": {
+      "image": "images/rancher_s_wooden_barrel.png"
+    },
+    "Rancher's Wooden Cart": {
+      "image": "images/rancher_s_wooden_cart.png"
+    },
+    "Rancher's Wooden Crates": {
+      "image": "images/rancher_s_wooden_crates.png"
+    }
+  },
+  "Ravenwood": {
+    "Ravenwood Armchair": {
+      "image": "images/ravenwood_armchair.png"
+    },
+    "Ravenwood Bathtub": {
+      "image": "images/ravenwood_bathtub.png"
+    },
+    "Ravenwood Candelabra": {
+      "image": "images/ravenwood_candelabra.png"
+    },
+    "Ravenwood Chandelier": {
+      "image": "images/ravenwood_chandelier.png"
+    },
+    "Ravenwood Column": {
+      "image": "images/ravenwood_column.png"
+    },
+    "Ravenwood Console Table": {
+      "image": "images/ravenwood_console_table.png"
+    },
+    "Ravenwood Couch": {
+      "image": "images/ravenwood_couch.png"
+    },
+    "Ravenwood Dining Chair": {
+      "image": "images/ravenwood_dining_chair.png"
+    },
+    "Ravenwood Dining Table": {
+      "image": "images/ravenwood_dining_table.png"
+    },
+    "Ravenwood Doormat": {
+      "image": "images/ravenwood_doormat.png"
+    },
+    "Ravenwood Fence": {
+      "image": "images/ravenwood_fence.png"
+    },
+    "Ravenwood Floor Cabinet": {
+      "image": "images/ravenwood_floor_cabinet.png"
+    },
+    "Ravenwood Floor Decor": {
+      "image": "images/ravenwood_floor_decor.png"
+    },
+    "Ravenwood Flower Planter": {
+      "image": "images/ravenwood_flower_planter.png"
+    },
+    "Ravenwood Folding Screen": {
+      "image": "images/ravenwood_folding_screen.png"
+    },
+    "Ravenwood Gate": {
+      "image": "images/ravenwood_gate.png"
+    },
+    "Ravenwood Lantern": {
+      "image": "images/ravenwood_lantern.png"
+    },
+    "Ravenwood Large End Table": {
+      "image": "images/ravenwood_large_end_table.png"
+    },
+    "Ravenwood Large Frame": {
+      "image": "images/ravenwood_large_frame.png"
+    },
+    "Ravenwood Medium Frame": {
+      "image": "images/ravenwood_medium_frame.png"
+    },
+    "Ravenwood Mirror": {
+      "image": "images/ravenwood_mirror.png"
+    },
+    "Ravenwood Nightstand": {
+      "image": "images/ravenwood_nightstand.png"
+    },
+    "Ravenwood Pantry": {
+      "image": "images/ravenwood_pantry.png"
+    },
+    "Ravenwood Runner": {
+      "image": "images/ravenwood_runner.png"
+    },
+    "Ravenwood Silk Bed": {
+      "image": "images/ravenwood_silk_bed.png"
+    },
+    "Ravenwood Small End Table": {
+      "image": "images/ravenwood_small_end_table.png"
+    },
+    "Ravenwood Small Frame": {
+      "image": "images/ravenwood_small_frame.png"
+    },
+    "Ravenwood Spotlight Lamp": {
+      "image": "images/ravenwood_spotlight_lamp.png"
+    },
+    "Ravenwood Standing Lamp": {
+      "image": "images/ravenwood_standing_lamp.png"
+    },
+    "Ravenwood Toilet": {
+      "image": "images/ravenwood_toilet.png"
+    },
+    "Ravenwood Vase": {
+      "image": "images/ravenwood_vase.png"
+    },
+    "Ravenwood Wall Cabinet": {
+      "image": "images/ravenwood_wall_cabinet.png"
+    },
+    "Ravenwood Wall Clock": {
+      "image": "images/ravenwood_wall_clock.png"
+    },
+    "Ravenwood Wall Lamp": {
+      "image": "images/ravenwood_wall_lamp.png"
+    },
+    "Ravenwood Wall Mirror": {
+      "image": "images/ravenwood_wall_mirror.png"
+    },
+    "Ravenwood Wall Shelf": {
+      "image": "images/ravenwood_wall_shelf.png"
+    },
+    "Ravenwood Wardrobe": {
+      "image": "images/ravenwood_wardrobe.png"
+    }
+  },
+  "Rockerpods": {
+    "Axel the Rockerpod": {
+      "image": "images/axel_the_rockerpod.png"
+    },
+    "Gene the Rockerpod": {
+      "image": "images/gene_the_rockerpod.png"
+    },
+    "Gerard the Rockerpod": {
+      "image": "images/gerard_the_rockerpod.png"
+    },
+    "Hendrix the Rockerpod": {
+      "image": "images/hendrix_the_rockerpod.png"
+    },
+    "Jovi the Rockerpod": {
+      "image": "images/jovi_the_rockerpod.png"
+    },
+    "Leif the Rockerpod": {
+      "image": "images/leif_the_rockerpod.png"
+    },
+    "Momo the Rockerpod": {
+      "image": "images/momo_the_rockerpod.png"
+    }
+  },
+  "Rummage Piles": {
+    "Blanket Storage Basket": {
+      "image": "images/blanket_storage_basket.png"
+    },
+    "Cozy Ladder": {
+      "image": "images/cozy_ladder.png"
+    },
+    "Cozy Rattan Basket": {
+      "image": "images/cozy_rattan_basket.png"
+    },
+    "Cozy Woven Basket": {
+      "image": "images/cozy_woven_basket.png"
+    },
+    "Firewood Holder": {
+      "image": "images/firewood_holder.png"
+    },
+    "Laundry Basket": {
+      "image": "images/laundry_basket.png"
+    },
+    "Porcelain Pitcher": {
+      "image": "images/porcelain_pitcher.png"
+    },
+    "Sewing Basket": {
+      "image": "images/sewing_basket.png"
+    },
+    "Tiered Fruit Basket": {
+      "image": "images/tiered_fruit_basket.png"
+    }
+  },
+  "Sandbox": {
+    "Sandbox Bouncy Shroom": {
+      "image": "images/sandbox_bouncy_shroom.png"
+    },
+    "Sandbox Signpost": {
+      "image": "images/sandbox_signpost.png"
+    },
+    "Sandbox Timer": {
+      "image": "images/sandbox_timer.png"
+    }
+  },
+  "Shinypods": {
+    "Cappie the Shinypod": {
+      "image": "images/cappie_the_shinypod.png"
+    },
+    "Cyrus the Shinypod": {
+      "image": "images/cyrus_the_shinypod.png"
+    },
+    "Eliot the Shinypod": {
+      "image": "images/eliot_the_shinypod.png"
+    },
+    "Goldie the Shinypod": {
+      "image": "images/goldie_the_shinypod.png"
+    },
+    "Lazlo the Shinypod": {
+      "image": "images/lazlo_the_shinypod.png"
+    },
+    "Maggie the Shinypod": {
+      "image": "images/maggie_the_shinypod.png"
+    },
+    "Patch the Shinypod": {
+      "image": "images/patch_the_shinypod.png"
+    },
+    "Prissy the Shinypod": {
+      "image": "images/prissy_the_shinypod.png"
+    },
+    "Rainer the Shinypod": {
+      "image": "images/rainer_the_shinypod.png"
+    },
+    "Zenni the Shinypod": {
+      "image": "images/zenni_the_shinypod.png"
+    }
+  },
+  "Smartypods": {
+    "Beatrix the Smartypod": {
+      "image": "images/beatrix_the_smartypod.png"
+    },
+    "Darwin the Smartypod": {
+      "image": "images/darwin_the_smartypod.png"
+    },
+    "Kelvin the Smartypod": {
+      "image": "images/kelvin_the_smartypod.png"
+    },
+    "Lavo the Smartypod": {
+      "image": "images/lavo_the_smartypod.png"
+    },
+    "Mendella the Smartypod": {
+      "image": "images/mendella_the_smartypod.png"
+    },
+    "Newton the Smartypod": {
+      "image": "images/newton_the_smartypod.png"
+    },
+    "Oz the Smartypod": {
+      "image": "images/oz_the_smartypod.png"
+    },
+    "Rosalind the Smartypod": {
+      "image": "images/rosalind_the_smartypod.png"
+    },
+    "Volta the Smartypod": {
+      "image": "images/volta_the_smartypod.png"
+    }
+  },
+  "Spa Day": {
+    "Spa Day Chaise Lounge": {
+      "image": "images/spa_day_chaise_lounge.png"
+    },
+    "Spa Day Ducky": {
+      "image": "images/spa_day_ducky.png"
+    },
+    "Spa Day Fringed Rug": {
+      "image": "images/spa_day_fringed_rug.png"
+    },
+    "Spa Day Hand Towel": {
+      "image": "images/spa_day_hand_towel.png"
+    },
+    "Spa Day Jade Plant": {
+      "image": "images/spa_day_jade_plant.png"
+    },
+    "Spa Day Long Tray": {
+      "image": "images/spa_day_long_tray.png"
+    },
+    "Spa Day Oval Rug": {
+      "image": "images/spa_day_oval_rug.png"
+    },
+    "Spa Day Potted Aloe": {
+      "image": "images/spa_day_potted_aloe.png"
+    },
+    "Spa Day Potted Moonstone": {
+      "image": "images/spa_day_potted_moonstone.png"
+    },
+    "Spa Day Round Tray": {
+      "image": "images/spa_day_round_tray.png"
+    },
+    "Spa Day Scent Tray": {
+      "image": "images/spa_day_scent_tray.png"
+    },
+    "Spa Day Short Container": {
+      "image": "images/spa_day_short_container.png"
+    },
+    "Spa Day Side Table": {
+      "image": "images/spa_day_side_table.png"
+    },
+    "Spa Day Slippers": {
+      "image": "images/spa_day_slippers.png"
+    },
+    "Spa Day Snake Plant": {
+      "image": "images/spa_day_snake_plant.png"
+    },
+    "Spa Day Tall Container": {
+      "image": "images/spa_day_tall_container.png"
+    },
+    "Spa Day Tealight Holder": {
+      "image": "images/spa_day_tealight_holder.png"
+    },
+    "Spa Day Towels": {
+      "image": "images/spa_day_towels.png"
+    }
+  },
+  "Spooky": {
+    "Spooky Candles": {
+      "image": "images/spooky_candles.png"
+    },
+    "Spooky Fall Leaves": {
+      "image": "images/spooky_fall_leaves.png"
+    },
+    "Spooky Floating Candle": {
+      "image": "images/spooky_floating_candle.png"
+    },
+    "Spooky Heirloom Pumpkin": {
+      "image": "images/spooky_heirloom_pumpkin.png"
+    },
+    "Spooky Jaak-O-Lantern": {
+      "image": "images/spooky_jaak_o_lantern.png"
+    },
+    "Spooky Leaf Pile": {
+      "image": "images/spooky_leaf_pile.png"
+    },
+    "Spooky Pumpkin": {
+      "image": "images/spooky_pumpkin.png"
+    },
+    "Spooky Pumpkin Stack": {
+      "image": "images/spooky_pumpkin_stack.png"
+    },
+    "Spooky Pumpkin Wallpaper": {
+      "image": "images/spooky_pumpkin_wallpaper.png"
+    },
+    "Spooky Sernuk-O-Lantern": {
+      "image": "images/spooky_sernuk_o_lantern.png"
+    },
+    "Spooky Spectral Blossoms": {
+      "image": "images/spooky_spectral_blossoms.png"
+    },
+    "Spooky Vined Pumpkin": {
+      "image": "images/spooky_vined_pumpkin.png"
+    }
+  },
+  "Spring Fever": {
+    "Spring Fever Arch Trellis": {
+      "image": "images/spring_fever_arch_trellis.png"
+    },
+    "Spring Fever Chiminea": {
+      "image": "images/spring_fever_chiminea.png"
+    },
+    "Spring Fever Curved Lamp": {
+      "image": "images/spring_fever_curved_lamp.png"
+    },
+    "Spring Fever Fire Pit": {
+      "image": "images/spring_fever_fire_pit.png"
+    },
+    "Spring Fever Flat Trellis": {
+      "image": "images/spring_fever_flat_trellis.png"
+    },
+    "Spring Fever Large Lights": {
+      "image": "images/spring_fever_large_lights.png"
+    },
+    "Spring Fever Med Lights": {
+      "image": "images/spring_fever_med_lights.png"
+    },
+    "Spring Fever Pergola": {
+      "image": "images/spring_fever_pergola.png"
+    },
+    "Spring Fever Rock Edging": {
+      "image": "images/spring_fever_rock_edging.png"
+    },
+    "Spring Fever Rock Stack": {
+      "image": "images/spring_fever_rock_stack.png"
+    },
+    "Spring Fever Short Lamp": {
+      "image": "images/spring_fever_short_lamp.png"
+    },
+    "Spring Fever Small Lights": {
+      "image": "images/spring_fever_small_lights.png"
+    },
+    "Spring Fever Swing": {
+      "image": "images/spring_fever_swing.png"
+    },
+    "Spring Fever Wheelbarrow": {
+      "image": "images/spring_fever_wheelbarrow.png"
+    },
+    "Spring Fever Wood Edging": {
+      "image": "images/spring_fever_wood_edging.png"
+    }
+  },
+  "Starstone Wallpapers": {
+    "Blushing Ruby Stucco Wall": {
+      "image": "images/blushing_ruby_stucco_wall.png"
+    },
+    "Cloudy Quartz Stucco Wall": {
+      "image": "images/cloudy_quartz_stucco_wall.png"
+    },
+    "Dark Sapphire Stucco Wall": {
+      "image": "images/dark_sapphire_stucco_wall.png"
+    },
+    "Earthy Jasper Stucco Wall": {
+      "image": "images/earthy_jasper_stucco_wall.png"
+    },
+    "Icy Aquamarine Stucco Wall": {
+      "image": "images/icy_aquamarine_stucco_wall.png"
+    },
+    "Inky Onyx Stucco Wall": {
+      "image": "images/inky_onyx_stucco_wall.png"
+    },
+    "Leafy Emerald Stucco Wall": {
+      "image": "images/leafy_emerald_stucco_wall.png"
+    },
+    "Light Amethyst Stucco Wall": {
+      "image": "images/light_amethyst_stucco_wall.png"
+    },
+    "Mossy Emerald Stucco Wall": {
+      "image": "images/mossy_emerald_stucco_wall.png"
+    },
+    "Peachy Garnet Stucco Wall": {
+      "image": "images/peachy_garnet_stucco_wall.png"
+    },
+    "Rosy Garnet Stucco Wall": {
+      "image": "images/rosy_garnet_stucco_wall.png"
+    },
+    "Royal Amethyst Stucco Wall": {
+      "image": "images/royal_amethyst_stucco_wall.png"
+    },
+    "Sandy Citrine Stucco Wall": {
+      "image": "images/sandy_citrine_stucco_wall.png"
+    },
+    "Sea Aquamarine Stucco Wall": {
+      "image": "images/sea_aquamarine_stucco_wall.png"
+    },
+    "Smoky Quartz Stucco Wall": {
+      "image": "images/smoky_quartz_stucco_wall.png"
+    },
+    "Standard Stucco Wall": {
+      "image": "images/standard_stucco_wall.png"
+    },
+    "Steel Sapphire Stucco Wall": {
+      "image": "images/steel_sapphire_stucco_wall.png"
+    },
+    "Sunny Jasper Stucco Wall": {
+      "image": "images/sunny_jasper_stucco_wall.png"
+    },
+    "Sunset Citrine Stucco Wall": {
+      "image": "images/sunset_citrine_stucco_wall.png"
+    },
+    "Wine Garnet Stucco Wall": {
+      "image": "images/wine_garnet_stucco_wall.png"
+    }
+  },
+  "Summer Stripe": {
+    "Summer Stripe Bench": {
+      "image": "images/summer_stripe_bench.png"
+    },
+    "Summer Stripe Bird Towel": {
+      "image": "images/summer_stripe_bird_towel.png"
+    },
+    "Summer Stripe Citrus Tea": {
+      "image": "images/summer_stripe_citrus_tea.png"
+    },
+    "Summer Stripe Cooler": {
+      "image": "images/summer_stripe_cooler.png"
+    },
+    "Summer Stripe Floral Tea": {
+      "image": "images/summer_stripe_floral_tea.png"
+    },
+    "Summer Stripe Floral Towel": {
+      "image": "images/summer_stripe_floral_towel.png"
+    },
+    "Summer Stripe Herbal Tea": {
+      "image": "images/summer_stripe_herbal_tea.png"
+    },
+    "Summer Stripe Ice Bucket": {
+      "image": "images/summer_stripe_ice_bucket.png"
+    },
+    "Summer Stripe Juice Bar": {
+      "image": "images/summer_stripe_juice_bar.png"
+    },
+    "Summer Stripe Ocean Tea": {
+      "image": "images/summer_stripe_ocean_tea.png"
+    },
+    "Summer Stripe Ocean Towel": {
+      "image": "images/summer_stripe_ocean_towel.png"
+    },
+    "Summer Stripe Recliner": {
+      "image": "images/summer_stripe_recliner.png"
+    },
+    "Summer Stripe Table": {
+      "image": "images/summer_stripe_table.png"
+    },
+    "Summer Stripe Umbrella": {
+      "image": "images/summer_stripe_umbrella.png"
+    },
+    "Summer Stripe Waves Towel": {
+      "image": "images/summer_stripe_waves_towel.png"
+    },
+    "Summer Stripes Towel": {
+      "image": "images/summer_stripes_towel.png"
+    }
+  },
+  "Teatime": {
+    "Teacup with Saucer": {
+      "image": "images/teacup_with_saucer.png"
+    },
+    "Teatime Blue Cup": {
+      "image": "images/teatime_blue_cup.png"
+    },
+    "Teatime Blue Teapot": {
+      "image": "images/teatime_blue_teapot.png"
+    },
+    "Teatime Brewing Pot": {
+      "image": "images/teatime_brewing_pot.png"
+    },
+    "Teatime Chair": {
+      "image": "images/teatime_chair.png"
+    },
+    "Teatime Decanter": {
+      "image": "images/teatime_decanter.png"
+    },
+    "Teatime Flower Pot": {
+      "image": "images/teatime_flower_pot.png"
+    },
+    "Teatime Glass Teacup": {
+      "image": "images/teatime_glass_teacup.png"
+    },
+    "Teatime Glass Teapot": {
+      "image": "images/teatime_glass_teapot.png"
+    },
+    "Teatime Pink Cup": {
+      "image": "images/teatime_pink_cup.png"
+    },
+    "Teatime Pink Teapot": {
+      "image": "images/teatime_pink_teapot.png"
+    },
+    "Teatime Pitcher": {
+      "image": "images/teatime_pitcher.png"
+    },
+    "Teatime Serving Tray": {
+      "image": "images/teatime_serving_tray.png"
+    },
+    "Teatime Silver Glass": {
+      "image": "images/teatime_silver_glass.png"
+    },
+    "Teatime Table": {
+      "image": "images/teatime_table.png"
+    },
+    "Teatime Tea Set": {
+      "image": "images/teatime_tea_set.png"
+    },
+    "Teatime Tea Tray": {
+      "image": "images/teatime_tea_tray.png"
+    },
+    "Teatime Teeny Teacup": {
+      "image": "images/teatime_teeny_teacup.png"
+    }
+  },
+  "Trophy": {
+    "Bahari Bay Map": {
+      "image": "images/bahari_bay_map.png"
+    },
+    "Bahari Hunter's Mounted Muujin": {
+      "image": "images/bahari_hunter_s_mounted_muujin.png"
+    },
+    "Brighteyed Shadowbox": {
+      "image": "images/brighteyed_shadowbox.png"
+    },
+    "Bronze Bug Catching Trophy": {
+      "image": "images/bronze_bug_catching_trophy.png"
+    },
+    "Bronze Cooking Trophy": {
+      "image": "images/bronze_cooking_trophy.png"
+    },
+    "Bronze Fishing Trophy": {
+      "image": "images/bronze_fishing_trophy.png"
+    },
+    "Bronze Foraging Trophy": {
+      "image": "images/bronze_foraging_trophy.png"
+    },
+    "Bronze Furniture Making Trophy": {
+      "image": "images/bronze_furniture_making_trophy.png"
+    },
+    "Bronze Gardening Trophy": {
+      "image": "images/bronze_gardening_trophy.png"
+    },
+    "Bronze Hunting Trophy": {
+      "image": "images/bronze_hunting_trophy.png"
+    },
+    "Bronze Mining Trophy": {
+      "image": "images/bronze_mining_trophy.png"
+    },
+    "Bronze Plot Size Trophy": {
+      "image": "images/bronze_plot_size_trophy.png"
+    },
+    "Einar's Adornment": {
+      "image": "images/einar_s_adornment.png"
+    },
+    "Elderwood Map": {
+      "image": "images/elderwood_map.png"
+    },
+    "Elderwood Shadowbox": {
+      "image": "images/elderwood_shadowbox.png"
+    },
+    "Gold Bug Catching Trophy": {
+      "image": "images/gold_bug_catching_trophy.png"
+    },
+    "Gold Cooking Trophy": {
+      "image": "images/gold_cooking_trophy.png"
+    },
+    "Gold Fishing Trophy": {
+      "image": "images/gold_fishing_trophy.png"
+    },
+    "Gold Foraging Trophy": {
+      "image": "images/gold_foraging_trophy.png"
+    },
+    "Gold Furniture Making Trophy": {
+      "image": "images/gold_furniture_making_trophy.png"
+    },
+    "Gold Gardening Trophy": {
+      "image": "images/gold_gardening_trophy.png"
+    },
+    "Gold Hunting Trophy": {
+      "image": "images/gold_hunting_trophy.png"
+    },
+    "Gold Mining Trophy": {
+      "image": "images/gold_mining_trophy.png"
+    },
+    "Gold Plot Size Trophy": {
+      "image": "images/gold_plot_size_trophy.png"
+    },
+    "Heavy Metal Chapaa Trophy": {
+      "image": "images/heavy_metal_chapaa_trophy.png"
+    },
+    "Kilima Bug Collector's Display Box": {
+      "image": "images/kilima_bug_collector_s_display_box.png"
+    },
+    "Kilima Fisher's Mounted Fish": {
+      "image": "images/kilima_fisher_s_mounted_fish.png"
+    },
+    "Kilima Forager's Basket": {
+      "image": "images/kilima_forager_s_basket.png"
+    },
+    "Kilima Hunter's Mounted Chapaa": {
+      "image": "images/kilima_hunter_s_mounted_chapaa.png"
+    },
+    "Kilima Hunter's Mounted Sernuk": {
+      "image": "images/kilima_hunter_s_mounted_sernuk.png"
+    },
+    "Kilima Miner's Tower of Palium": {
+      "image": "images/kilima_miner_s_tower_of_palium.png"
+    },
+    "Kilima Village Map": {
+      "image": "images/kilima_village_map.png"
+    },
+    "Mounted Floatfish": {
+      "image": "images/mounted_floatfish.png"
+    },
+    "Mounted Maws": {
+      "image": "images/mounted_maws.png"
+    },
+    "Mounted Ogopuu Trophy": {
+      "image": "images/mounted_ogopuu_trophy.png"
+    },
+    "Mounted Shmole Trophy": {
+      "image": "images/mounted_shmole_trophy.png"
+    },
+    "Pan Pals Cooking Trophy": {
+      "image": "images/pan_pals_cooking_trophy.png"
+    },
+    "Pan Pals Master Cooking Trophy": {
+      "image": "images/pan_pals_master_cooking_trophy.png"
+    },
+    "Silver Bug Catching Trophy": {
+      "image": "images/silver_bug_catching_trophy.png"
+    },
+    "Silver Cooking Trophy": {
+      "image": "images/silver_cooking_trophy.png"
+    },
+    "Silver Fishing Trophy": {
+      "image": "images/silver_fishing_trophy.png"
+    },
+    "Silver Foraging Trophy": {
+      "image": "images/silver_foraging_trophy.png"
+    },
+    "Silver Furniture Making Trophy": {
+      "image": "images/silver_furniture_making_trophy.png"
+    },
+    "Silver Gardening Trophy": {
+      "image": "images/silver_gardening_trophy.png"
+    },
+    "Silver Hunting Trophy": {
+      "image": "images/silver_hunting_trophy.png"
+    },
+    "Silver Mining Trophy": {
+      "image": "images/silver_mining_trophy.png"
+    },
+    "Silver Plot Size Trophy": {
+      "image": "images/silver_plot_size_trophy.png"
+    },
+    "Star Kilima Bug Collector's Display Box": {
+      "image": "images/star_kilima_bug_collector_s_display_box.png"
+    },
+    "Star Kilima Fisher's Mounted Fish": {
+      "image": "images/star_kilima_fisher_s_mounted_fish.png"
+    }
+  },
+  "Umbraan": {
+    "Curved Umbraan Fence": {
+      "image": "images/curved_umbraan_fence.png"
+    },
+    "Decorative Umbraan Fence": {
+      "image": "images/decorative_umbraan_fence.png"
+    },
+    "Double Umbraan Fence": {
+      "image": "images/double_umbraan_fence.png"
+    },
+    "Large Umbraan Jug": {
+      "image": "images/large_umbraan_jug.png"
+    },
+    "Large Umbraan Pot": {
+      "image": "images/large_umbraan_pot.png"
+    },
+    "Medium Umbraan Jug": {
+      "image": "images/medium_umbraan_jug.png"
+    },
+    "Petite Stack o' Sacks": {
+      "image": "images/petite_stack_o__sacks.png"
+    },
+    "Petite Umbraan Platform": {
+      "image": "images/petite_umbraan_platform.png"
+    },
+    "Single Umbraan Fence": {
+      "image": "images/single_umbraan_fence.png"
+    },
+    "Small Umbraan Jug": {
+      "image": "images/small_umbraan_jug.png"
+    },
+    "Stack o' Sacks": {
+      "image": "images/stack_o__sacks.png"
+    },
+    "Umbraan Arch": {
+      "image": "images/umbraan_arch.png"
+    },
+    "Umbraan Archway": {
+      "image": "images/umbraan_archway.png"
+    },
+    "Umbraan Bed": {
+      "image": "images/umbraan_bed.png"
+    },
+    "Umbraan Bloom Lightpost": {
+      "image": "images/umbraan_bloom_lightpost.png"
+    },
+    "Umbraan Blossom Lamp": {
+      "image": "images/umbraan_blossom_lamp.png"
+    },
+    "Umbraan Blossom Lightpost": {
+      "image": "images/umbraan_blossom_lightpost.png"
+    },
+    "Umbraan Bookshelf": {
+      "image": "images/umbraan_bookshelf.png"
+    },
+    "Umbraan Bridge": {
+      "image": "images/umbraan_bridge.png"
+    },
+    "Umbraan Chair": {
+      "image": "images/umbraan_chair.png"
+    },
+    "Umbraan Chandelier": {
+      "image": "images/umbraan_chandelier.png"
+    },
+    "Umbraan Couch": {
+      "image": "images/umbraan_couch.png"
+    },
+    "Umbraan Dresser": {
+      "image": "images/umbraan_dresser.png"
+    },
+    "Umbraan Floor Lamp": {
+      "image": "images/umbraan_floor_lamp.png"
+    },
+    "Umbraan Gazebo": {
+      "image": "images/umbraan_gazebo.png"
+    },
+    "Umbraan Gem Chimes": {
+      "image": "images/umbraan_gem_chimes.png"
+    },
+    "Umbraan Large Rug": {
+      "image": "images/umbraan_large_rug.png"
+    },
+    "Umbraan Log": {
+      "image": "images/umbraan_log.png"
+    },
+    "Umbraan Log Planter": {
+      "image": "images/umbraan_log_planter.png"
+    },
+    "Umbraan Low Table": {
+      "image": "images/umbraan_low_table.png"
+    },
+    "Umbraan Medium Rug": {
+      "image": "images/umbraan_medium_rug.png"
+    },
+    "Umbraan Mush Lamp": {
+      "image": "images/umbraan_mush_lamp.png"
+    },
+    "Umbraan Nightstand": {
+      "image": "images/umbraan_nightstand.png"
+    },
+    "Umbraan Orchid Planter": {
+      "image": "images/umbraan_orchid_planter.png"
+    },
+    "Umbraan Pantry": {
+      "image": "images/umbraan_pantry.png"
+    },
+    "Umbraan Pitcher": {
+      "image": "images/umbraan_pitcher.png"
+    },
+    "Umbraan Platform": {
+      "image": "images/umbraan_platform.png"
+    },
+    "Umbraan Shed": {
+      "image": "images/umbraan_shed.png"
+    },
+    "Umbraan Sidewalk": {
+      "image": "images/umbraan_sidewalk.png"
+    },
+    "Umbraan Sink": {
+      "image": "images/umbraan_sink.png"
+    },
+    "Umbraan Small Rug": {
+      "image": "images/umbraan_small_rug.png"
+    },
+    "Umbraan Swinging Couch": {
+      "image": "images/umbraan_swinging_couch.png"
+    },
+    "Umbraan Table": {
+      "image": "images/umbraan_table.png"
+    },
+    "Umbraan Trellis": {
+      "image": "images/umbraan_trellis.png"
+    },
+    "Umbraan Tub": {
+      "image": "images/umbraan_tub.png"
+    },
+    "Umbraan Wall Cabinet": {
+      "image": "images/umbraan_wall_cabinet.png"
+    },
+    "Umbraan Wall Light": {
+      "image": "images/umbraan_wall_light.png"
+    },
+    "Umbraan Wall Shelf": {
+      "image": "images/umbraan_wall_shelf.png"
+    },
+    "Umbraan Wardrobe": {
+      "image": "images/umbraan_wardrobe.png"
+    },
+    "Umbraan Wreath": {
+      "image": "images/umbraan_wreath.png"
+    }
+  },
+  "Valley Sunrise": {
+    "Valley Sunrise Bed": {
+      "image": "images/valley_sunrise_bed.png"
+    },
+    "Valley Sunrise Bookshelf": {
+      "image": "images/valley_sunrise_bookshelf.png"
+    },
+    "Valley Sunrise Candelabra": {
+      "image": "images/valley_sunrise_candelabra.png"
+    },
+    "Valley Sunrise Chandelier": {
+      "image": "images/valley_sunrise_chandelier.png"
+    },
+    "Valley Sunrise Cloche": {
+      "image": "images/valley_sunrise_cloche.png"
+    },
+    "Valley Sunrise Clock": {
+      "image": "images/valley_sunrise_clock.png"
+    },
+    "Valley Sunrise Desk": {
+      "image": "images/valley_sunrise_desk.png"
+    },
+    "Valley Sunrise Dining Table": {
+      "image": "images/valley_sunrise_dining_table.png"
+    },
+    "Valley Sunrise Grain Mill": {
+      "image": "images/valley_sunrise_grain_mill.png"
+    },
+    "Valley Sunrise Hanging Lamp": {
+      "image": "images/valley_sunrise_hanging_lamp.png"
+    },
+    "Valley Sunrise Knife Set": {
+      "image": "images/valley_sunrise_knife_set.png"
+    },
+    "Valley Sunrise Lights": {
+      "image": "images/valley_sunrise_lights.png"
+    },
+    "Valley Sunrise Oval Table": {
+      "image": "images/valley_sunrise_oval_table.png"
+    },
+    "Valley Sunrise Side Table": {
+      "image": "images/valley_sunrise_side_table.png"
+    },
+    "Valley Sunrise Sink": {
+      "image": "images/valley_sunrise_sink.png"
+    },
+    "Valley Sunrise Vase": {
+      "image": "images/valley_sunrise_vase.png"
+    }
+  },
+  "Wedding": {
+    "Wedding Arch": {
+      "image": "images/wedding_arch.png"
+    },
+    "Wedding Scrolls": {
+      "image": "images/wedding_scrolls.png"
+    },
+    "Wedding Stanchion": {
+      "image": "images/wedding_stanchion.png"
+    },
+    "Wedding Table": {
+      "image": "images/wedding_table.png"
+    }
+  },
+  "Winter": {
+    "Jolly Chapaa Rug": {
+      "image": "images/jolly_chapaa_rug.png"
+    },
+    "Jolly Holly Wallpaper": {
+      "image": "images/jolly_holly_wallpaper.png"
+    },
+    "Jolly Ormuu Rug": {
+      "image": "images/jolly_ormuu_rug.png"
+    },
+    "Large Snowy Bench": {
+      "image": "images/large_snowy_bench.png"
+    },
+    "Let It Snowflake Wallpaper": {
+      "image": "images/let_it_snowflake_wallpaper.png"
+    },
+    "Snowman Plush": {
+      "image": "images/snowman_plush.png"
+    },
+    "Snowy Chapaa": {
+      "image": "images/snowy_chapaa.png"
+    },
+    "Snowy Chapaa Rug": {
+      "image": "images/snowy_chapaa_rug.png"
+    },
+    "Snowy Dining Table": {
+      "image": "images/snowy_dining_table.png"
+    },
+    "Snowy Garden Sernuk": {
+      "image": "images/snowy_garden_sernuk.png"
+    },
+    "Snowy Lawn 1": {
+      "image": "images/snowy_lawn_1.png"
+    },
+    "Snowy Lawn 2": {
+      "image": "images/snowy_lawn_2.png"
+    },
+    "Snowy Lawn 3": {
+      "image": "images/snowy_lawn_3.png"
+    },
+    "Snowy Log Carrier": {
+      "image": "images/snowy_log_carrier.png"
+    },
+    "Snowy Log Dining Chair": {
+      "image": "images/snowy_log_dining_chair.png"
+    },
+    "Snowy Ormuu Rug": {
+      "image": "images/snowy_ormuu_rug.png"
+    },
+    "Snowy Parsol": {
+      "image": "images/snowy_parsol.png"
+    },
+    "Snowy Pavilion": {
+      "image": "images/snowy_pavilion.png"
+    },
+    "Snowy Small Bench": {
+      "image": "images/snowy_small_bench.png"
+    },
+    "Snowy Stool": {
+      "image": "images/snowy_stool.png"
+    },
+    "Snowy Stump Chair": {
+      "image": "images/snowy_stump_chair.png"
+    },
+    "Snowy Tiled Roof": {
+      "image": "images/snowy_tiled_roof.png"
+    },
+    "String Lights Corner": {
+      "image": "images/string_lights_corner.png"
+    },
+    "String Lights Long": {
+      "image": "images/string_lights_long.png"
+    },
+    "String Lights Short": {
+      "image": "images/string_lights_short.png"
+    },
+    "Three-Pronged Candelabrum": {
+      "image": "images/three_pronged_candelabrum.png"
+    },
+    "Winterlights Antler Mount": {
+      "image": "images/winterlights_antler_mount.png"
+    },
+    "Winterlights Ashura Ornament": {
+      "image": "images/winterlights_ashura_ornament.png"
+    },
+    "Winterlights Ball Ornament": {
+      "image": "images/winterlights_ball_ornament.png"
+    },
+    "Winterlights Bell Ornament": {
+      "image": "images/winterlights_bell_ornament.png"
+    },
+    "Winterlights Blue Present": {
+      "image": "images/winterlights_blue_present.png"
+    },
+    "Winterlights Brass Ornament": {
+      "image": "images/winterlights_brass_ornament.png"
+    },
+    "Winterlights Candle Ornament": {
+      "image": "images/winterlights_candle_ornament.png"
+    },
+    "Winterlights Candle Stick": {
+      "image": "images/winterlights_candle_stick.png"
+    },
+    "Winterlights Candy Ornament": {
+      "image": "images/winterlights_candy_ornament.png"
+    },
+    "Winterlights Charcuterie": {
+      "image": "images/winterlights_charcuterie.png"
+    },
+    "Winterlights Chest": {
+      "image": "images/winterlights_chest.png"
+    },
+    "Winterlights Coat Rack": {
+      "image": "images/winterlights_coat_rack.png"
+    },
+    "Winterlights Glass Ornament": {
+      "image": "images/winterlights_glass_ornament.png"
+    },
+    "Winterlights Gold Plate": {
+      "image": "images/winterlights_gold_plate.png"
+    },
+    "Winterlights Gold Topper": {
+      "image": "images/winterlights_gold_topper.png"
+    },
+    "Winterlights Gold Wreath": {
+      "image": "images/winterlights_gold_wreath.png"
+    },
+    "Winterlights Green Present": {
+      "image": "images/winterlights_green_present.png"
+    },
+    "Winterlights Ice Patch": {
+      "image": "images/winterlights_ice_patch.png"
+    },
+    "Winterlights Icy Tree Topper": {
+      "image": "images/winterlights_icy_tree_topper.png"
+    },
+    "Winterlights Mitten Decor": {
+      "image": "images/winterlights_mitten_decor.png"
+    },
+    "Winterlights Orb Ornament": {
+      "image": "images/winterlights_orb_ornament.png"
+    },
+    "Winterlights Red Present": {
+      "image": "images/winterlights_red_present.png"
+    },
+    "Winterlights Reth Ornament": {
+      "image": "images/winterlights_reth_ornament.png"
+    },
+    "Winterlights Silver Bell": {
+      "image": "images/winterlights_silver_bell.png"
+    },
+    "Winterlights Silver Plate": {
+      "image": "images/winterlights_silver_plate.png"
+    },
+    "Winterlights Silver Wreath": {
+      "image": "images/winterlights_silver_wreath.png"
+    },
+    "Winterlights Skates Decor": {
+      "image": "images/winterlights_skates_decor.png"
+    },
+    "Winterlights Snow Mound": {
+      "image": "images/winterlights_snow_mound.png"
+    },
+    "Winterlights Snowbank": {
+      "image": "images/winterlights_snowbank.png"
+    },
+    "Winterlights Snowdrift": {
+      "image": "images/winterlights_snowdrift.png"
+    },
+    "Winterlights Snowshoes": {
+      "image": "images/winterlights_snowshoes.png"
+    },
+    "Winterlights Snowy Tree": {
+      "image": "images/winterlights_snowy_tree.png"
+    },
+    "Winterlights Stockings": {
+      "image": "images/winterlights_stockings.png"
+    },
+    "Winterlights Stripe Ornament": {
+      "image": "images/winterlights_stripe_ornament.png"
+    },
+    "Winterlights Tree": {
+      "image": "images/winterlights_tree.png"
+    },
+    "Winterlights Tree Topper": {
+      "image": "images/winterlights_tree_topper.png"
+    },
+    "Winterlights Trinket Decor": {
+      "image": "images/winterlights_trinket_decor.png"
+    },
+    "Winterlights Wood Ornament": {
+      "image": "images/winterlights_wood_ornament.png"
+    }
+  },
+  "Yardwork": {
+    "Yardwork Large Rock 1": {
+      "image": "images/yardwork_large_rock_1.png"
+    },
+    "Yardwork Large Rock 2": {
+      "image": "images/yardwork_large_rock_2.png"
+    },
+    "Yardwork Large Terrace": {
+      "image": "images/yardwork_large_terrace.png"
+    },
+    "Yardwork Leafy Log": {
+      "image": "images/yardwork_leafy_log.png"
+    },
+    "Yardwork Medium Terrace": {
+      "image": "images/yardwork_medium_terrace.png"
+    },
+    "Yardwork Small Rock 1": {
+      "image": "images/yardwork_small_rock_1.png"
+    },
+    "Yardwork Small Rock 2": {
+      "image": "images/yardwork_small_rock_2.png"
+    },
+    "Yardwork Small Rock 3": {
+      "image": "images/yardwork_small_rock_3.png"
+    },
+    "Yardwork Small Terrace": {
+      "image": "images/yardwork_small_terrace.png"
+    },
+    "Yardwork Stone Pillar": {
+      "image": "images/yardwork_stone_pillar.png"
+    },
+    "Yardwork Wooden Pillar": {
+      "image": "images/yardwork_wooden_pillar.png"
+    }
+  }
+}
